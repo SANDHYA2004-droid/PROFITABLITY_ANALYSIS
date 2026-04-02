@@ -17,15 +17,22 @@ st.title("🍬 Nassau Candy Distributor - Profitability Dashboard")
 # ==============================
 @st.cache_data
 def load_data():
-    return pd.read_csv("nassau_candy_1000_rows.csv")
+    df = pd.read_csv("cleaned_nassau_data.csv")   # ✅ use cleaned file
+    
+    # FIX DATE FORMAT
+    df['Order Date'] = pd.to_datetime(df['Order Date'], dayfirst=True, errors='coerce')
+    df['Ship Date'] = pd.to_datetime(df['Ship Date'], dayfirst=True, errors='coerce')
+
+    # REMOVE INVALID DATES
+    df = df.dropna(subset=['Order Date', 'Ship Date'])
+
+    return df
 
 df = load_data()
 
 # ==============================
-# DATA PREPROCESSING
+# KPI CALCULATIONS
 # ==============================
-df['Order Date'] = pd.to_datetime(df['Order Date'])
-
 df['Gross Margin %'] = (df['Gross Profit'] / df['Sales']) * 100
 df['Profit per Unit'] = df['Gross Profit'] / df['Units']
 
@@ -47,7 +54,7 @@ division = st.sidebar.multiselect(
     default=df['Division'].unique()
 )
 
-# Margin slider
+# Margin filter
 margin_filter = st.sidebar.slider(
     "Minimum Margin %",
     min_value=0,
@@ -66,12 +73,14 @@ filtered_df = df[
     (df['Gross Margin %'] >= margin_filter)
 ]
 
+# Date filter
 if len(date_range) == 2:
     filtered_df = filtered_df[
         (filtered_df['Order Date'] >= pd.to_datetime(date_range[0])) &
         (filtered_df['Order Date'] <= pd.to_datetime(date_range[1]))
     ]
 
+# Product search
 if product_search:
     filtered_df = filtered_df[
         filtered_df['Product Name'].str.contains(product_search, case=False)
@@ -157,7 +166,7 @@ fig5 = px.pie(top_profit, names='Product Name', values='Gross Profit')
 st.plotly_chart(fig5, use_container_width=True)
 
 # ==============================
-# TABLE VIEW
+# DATA TABLE
 # ==============================
 st.subheader("📄 Data Table")
 st.dataframe(filtered_df)
