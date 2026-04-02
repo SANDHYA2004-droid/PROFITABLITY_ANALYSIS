@@ -1,0 +1,1001 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Country/Region,City,State/Province,Postal Code,Division,Region,Product ID,Product Name,Sales,Units,Gross Profit,Cost
+1,CA-1001,2025-09-18,2025-08-04,First Class,CUST-283,USA,Port Pennystad,Wyoming,59942,Other,South,P-014,Wonka Gum,675,15,445,230
+2,CA-1002,2025-04-19,2025-07-13,First Class,CUST-105,USA,Meghanville,Maryland,06967,Sugar,East,P-008,Nerds,354,7,28,326
+3,CA-1003,2025-04-12,2026-03-03,Second Class,CUST-191,USA,Wilkinsonburgh,Kentucky,82326,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,179,13,100,79
+4,CA-1004,2025-12-13,2025-04-12,First Class,CUST-214,USA,Timothyton,Iowa,61077,Sugar,East,P-011,Everlasting Gobstopper,576,19,263,313
+5,CA-1005,2025-10-21,2025-12-24,First Class,CUST-012,USA,Emilyborough,Maine,80018,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,377,11,78,299
+6,CA-1006,2025-07-31,2026-03-07,First Class,CUST-016,USA,Robertstown,Texas,51601,Sugar,South,P-008,Nerds,971,23,762,209
+7,CA-1007,2025-07-13,2025-08-07,Standard Class,CUST-103,USA,Lake Cassandrafort,Maine,60538,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,723,28,247,476
+8,CA-1008,2025-11-24,2025-04-21,Standard Class,CUST-177,USA,New Katherine,New Mexico,14540,Other,South,P-013,Lickable Wallpaper,259,27,58,201
+9,CA-1009,2025-10-05,2025-11-27,Standard Class,CUST-007,USA,South Davidburgh,Pennsylvania,75884,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,745,18,691,54
+10,CA-1010,2026-03-23,2025-05-03,First Class,CUST-136,USA,East Sharon,New York,12624,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,299,7,85,214
+11,CA-1011,2025-09-27,2025-11-30,First Class,CUST-078,USA,West Patrickmouth,Vermont,27831,Sugar,South,P-012,Hair Toffee,582,11,296,286
+12,CA-1012,2026-01-17,2025-05-08,Second Class,CUST-186,USA,Griffinberg,Oregon,61398,Other,West,P-015,Kazookles,424,23,327,97
+13,CA-1013,2026-03-26,2025-08-03,Standard Class,CUST-209,USA,Brownland,South Carolina,14807,Sugar,Central,P-011,Everlasting Gobstopper,661,18,34,627
+14,CA-1014,2025-11-04,2026-03-31,Standard Class,CUST-055,USA,Jenniferchester,Florida,28020,Sugar,West,P-012,Hair Toffee,944,21,599,345
+15,CA-1015,2025-11-14,2025-07-30,First Class,CUST-088,USA,Jacobland,Arkansas,93974,Sugar,East,P-011,Everlasting Gobstopper,720,11,528,192
+16,CA-1016,2026-03-21,2025-05-05,Standard Class,CUST-269,USA,Finleyville,Wyoming,56418,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,973,9,919,54
+17,CA-1017,2025-06-24,2025-12-03,Standard Class,CUST-123,USA,Walshton,Washington,86440,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,253,9,112,141
+18,CA-1018,2025-06-23,2025-05-02,First Class,CUST-253,USA,East Sarahmouth,Illinois,58999,Sugar,East,P-012,Hair Toffee,482,7,109,373
+19,CA-1019,2025-04-08,2025-04-09,Standard Class,CUST-169,USA,Jeanetteburgh,Ohio,51279,Sugar,Central,P-006,Laffy Taffy,477,14,86,391
+20,CA-1020,2025-06-11,2025-09-13,Second Class,CUST-012,USA,New Jennifer,Hawaii,96442,Sugar,West,P-011,Everlasting Gobstopper,133,8,42,91
+21,CA-1021,2025-06-04,2025-06-09,Second Class,CUST-158,USA,East Anthonyview,South Dakota,18488,Sugar,East,P-008,Nerds,878,28,714,164
+22,CA-1022,2025-10-19,2025-05-20,Second Class,CUST-091,USA,East Bruce,Maryland,41032,Sugar,South,P-008,Nerds,754,24,372,382
+23,CA-1023,2025-10-07,2025-10-14,Standard Class,CUST-090,USA,Washingtonfurt,Nevada,41083,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,476,6,416,60
+24,CA-1024,2025-06-07,2025-09-11,First Class,CUST-270,USA,Lake James,Tennessee,45045,Other,Central,P-010,Fizzy Lifting Drinks,282,30,26,256
+25,CA-1025,2025-08-22,2025-05-10,Standard Class,CUST-293,USA,Kerrville,Maryland,37479,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,963,25,712,251
+26,CA-1026,2025-09-27,2025-05-18,Standard Class,CUST-008,USA,North Courtneyburgh,Idaho,75143,Other,East,P-013,Lickable Wallpaper,141,26,68,73
+27,CA-1027,2025-10-22,2025-09-01,First Class,CUST-079,USA,Monroeside,West Virginia,58028,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,221,15,49,172
+28,CA-1028,2026-02-05,2025-07-08,Standard Class,CUST-246,USA,Fordberg,Nevada,80771,Other,South,P-010,Fizzy Lifting Drinks,592,23,378,214
+29,CA-1029,2025-08-04,2025-09-08,Second Class,CUST-184,USA,East Sarahburgh,West Virginia,96884,Other,West,P-015,Kazookles,582,25,463,119
+30,CA-1030,2026-02-17,2025-09-28,Second Class,CUST-273,USA,Hamiltonshire,Maryland,26762,Sugar,Central,P-008,Nerds,726,19,129,597
+31,CA-1031,2025-05-19,2025-11-19,Second Class,CUST-095,USA,New Brian,Tennessee,21565,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,651,11,215,436
+32,CA-1032,2025-11-03,2026-01-05,First Class,CUST-191,USA,New Andrea,Alaska,33211,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,854,15,452,402
+33,CA-1033,2026-03-09,2025-10-01,Standard Class,CUST-087,USA,North Lucastown,South Carolina,63794,Sugar,East,P-012,Hair Toffee,160,23,56,104
+34,CA-1034,2025-04-30,2026-03-21,First Class,CUST-166,USA,East Michelefort,Rhode Island,54891,Sugar,East,P-007,SweeTARTS,735,20,585,150
+35,CA-1035,2026-01-19,2026-02-09,Second Class,CUST-108,USA,Heiditown,New Jersey,68626,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,317,16,227,90
+36,CA-1036,2026-03-10,2025-05-02,Second Class,CUST-196,USA,Lake Scottbury,Maine,60848,Other,South,P-015,Kazookles,382,29,234,148
+37,CA-1037,2025-05-25,2025-08-01,First Class,CUST-242,USA,Millerport,Alaska,11373,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,588,20,43,545
+38,CA-1038,2025-08-06,2026-02-14,First Class,CUST-235,USA,New Kevinbury,Alabama,69476,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,825,16,467,358
+39,CA-1039,2026-02-04,2025-06-12,First Class,CUST-035,USA,Anitamouth,Alaska,66372,Sugar,South,P-007,SweeTARTS,656,26,294,362
+40,CA-1040,2025-07-06,2025-04-01,First Class,CUST-047,USA,Richardsberg,Virginia,37848,Sugar,East,P-007,SweeTARTS,463,9,145,318
+41,CA-1041,2025-12-05,2026-03-27,First Class,CUST-249,USA,Davisfort,South Dakota,75041,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,776,15,696,80
+42,CA-1042,2025-10-27,2026-01-26,First Class,CUST-033,USA,West Erichaven,Minnesota,09960,Sugar,Central,P-006,Laffy Taffy,327,21,251,76
+43,CA-1043,2025-07-06,2025-10-09,Standard Class,CUST-199,USA,Coreymouth,Florida,56018,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,634,24,146,488
+44,CA-1044,2025-05-02,2026-03-14,Second Class,CUST-181,USA,Whiteville,Illinois,92403,Sugar,West,P-012,Hair Toffee,796,24,29,767
+45,CA-1045,2026-02-02,2025-10-09,Second Class,CUST-274,USA,South Deanview,Kansas,74196,Other,Central,P-015,Kazookles,730,10,523,207
+46,CA-1046,2025-11-20,2025-06-05,First Class,CUST-092,USA,Port Mark,Arizona,64455,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,200,15,136,64
+47,CA-1047,2026-03-05,2025-08-18,Second Class,CUST-299,USA,Wilsonstad,Kentucky,87573,Other,West,P-013,Lickable Wallpaper,862,15,524,338
+48,CA-1048,2025-05-14,2025-07-11,Second Class,CUST-194,USA,Jacksonside,Massachusetts,78621,Other,West,P-013,Lickable Wallpaper,828,21,319,509
+49,CA-1049,2026-02-20,2026-02-02,Second Class,CUST-023,USA,Kirbyburgh,South Carolina,14756,Sugar,East,P-007,SweeTARTS,948,20,594,354
+50,CA-1050,2025-09-23,2025-05-29,Standard Class,CUST-096,USA,New Melissa,Minnesota,05794,Sugar,Central,P-008,Nerds,679,22,344,335
+51,CA-1051,2026-02-11,2026-02-10,Second Class,CUST-073,USA,Berryborough,Oregon,64766,Other,South,P-010,Fizzy Lifting Drinks,616,18,549,67
+52,CA-1052,2026-01-02,2025-10-06,Second Class,CUST-157,USA,Josephburgh,Arkansas,22829,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,471,13,89,382
+53,CA-1053,2026-03-31,2025-10-14,Second Class,CUST-258,USA,Lake Russellborough,Kentucky,97326,Other,East,P-014,Wonka Gum,296,14,195,101
+54,CA-1054,2025-06-14,2025-11-12,Standard Class,CUST-010,USA,Patelburgh,Tennessee,51388,Sugar,South,P-011,Everlasting Gobstopper,118,18,55,63
+55,CA-1055,2025-12-10,2025-10-22,Second Class,CUST-086,USA,Marcusland,South Dakota,32398,Sugar,West,P-012,Hair Toffee,181,24,80,101
+56,CA-1056,2025-05-12,2025-12-12,Standard Class,CUST-091,USA,Hurleystad,Connecticut,61289,Sugar,South,P-011,Everlasting Gobstopper,510,20,224,286
+57,CA-1057,2025-04-29,2025-09-21,Second Class,CUST-143,USA,West Scottton,Nevada,92931,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,861,19,724,137
+58,CA-1058,2025-10-11,2025-04-24,Second Class,CUST-201,USA,North Carlos,Maine,98399,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,579,7,223,356
+59,CA-1059,2025-08-06,2025-07-16,First Class,CUST-221,USA,Jackmouth,Vermont,45091,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,771,12,438,333
+60,CA-1060,2025-04-19,2025-12-23,Standard Class,CUST-104,USA,Myersstad,Massachusetts,51186,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,998,23,431,567
+61,CA-1061,2025-10-06,2025-09-19,First Class,CUST-001,USA,Jessicafurt,Florida,44379,Sugar,West,P-007,SweeTARTS,366,8,216,150
+62,CA-1062,2025-10-15,2025-11-04,Standard Class,CUST-147,USA,Pruittchester,Missouri,47439,Other,East,P-013,Lickable Wallpaper,321,19,52,269
+63,CA-1063,2025-04-23,2025-07-24,First Class,CUST-210,USA,North Rodney,Alaska,65203,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,673,6,184,489
+64,CA-1064,2025-12-19,2025-08-20,Standard Class,CUST-118,USA,Ramoston,New Jersey,73713,Sugar,Central,P-006,Laffy Taffy,156,25,98,58
+65,CA-1065,2025-05-25,2025-08-08,Standard Class,CUST-210,USA,Colemanshire,Florida,59487,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,723,8,410,313
+66,CA-1066,2025-11-21,2025-04-08,Second Class,CUST-127,USA,Lake Julian,Kansas,64716,Sugar,West,P-011,Everlasting Gobstopper,524,18,76,448
+67,CA-1067,2025-09-28,2025-09-16,Second Class,CUST-093,USA,Lynnberg,Idaho,75391,Sugar,South,P-008,Nerds,843,15,159,684
+68,CA-1068,2025-06-05,2025-08-04,Standard Class,CUST-008,USA,South Susanport,Nevada,88924,Other,South,P-013,Lickable Wallpaper,406,26,137,269
+69,CA-1069,2025-12-10,2026-02-27,First Class,CUST-283,USA,Zacharyville,Nevada,30125,Sugar,East,P-007,SweeTARTS,757,22,120,637
+70,CA-1070,2025-06-01,2025-09-19,Second Class,CUST-208,USA,North Hannahfort,Rhode Island,34569,Sugar,East,P-009,Fun Dip,238,26,153,85
+71,CA-1071,2025-09-17,2025-08-19,First Class,CUST-213,USA,East Victorshire,South Carolina,10607,Other,South,P-013,Lickable Wallpaper,607,16,340,267
+72,CA-1072,2025-04-02,2026-02-04,First Class,CUST-089,USA,Jayborough,Maine,27554,Other,East,P-010,Fizzy Lifting Drinks,828,24,304,524
+73,CA-1073,2025-12-27,2026-04-01,First Class,CUST-075,USA,Michaelchester,Kansas,67639,Sugar,West,P-006,Laffy Taffy,381,21,86,295
+74,CA-1074,2026-02-25,2025-05-27,Standard Class,CUST-178,USA,New Carrie,Utah,54770,Sugar,East,P-007,SweeTARTS,773,15,420,353
+75,CA-1075,2026-01-03,2025-11-02,Standard Class,CUST-213,USA,Lake Davidfurt,Arizona,93976,Other,West,P-010,Fizzy Lifting Drinks,160,22,54,106
+76,CA-1076,2025-07-13,2026-03-14,First Class,CUST-122,USA,Aprilville,New Mexico,87439,Sugar,East,P-008,Nerds,939,27,531,408
+77,CA-1077,2025-10-28,2025-10-18,Second Class,CUST-143,USA,Brettside,Mississippi,99282,Sugar,South,P-012,Hair Toffee,889,23,40,849
+78,CA-1078,2025-06-21,2025-11-06,First Class,CUST-058,USA,Ericaport,Georgia,90040,Other,West,P-010,Fizzy Lifting Drinks,180,28,22,158
+79,CA-1079,2026-02-04,2025-09-11,Second Class,CUST-076,USA,South Melissa,Texas,37515,Sugar,Central,P-011,Everlasting Gobstopper,196,17,114,82
+80,CA-1080,2025-04-10,2025-04-28,Second Class,CUST-256,USA,West Darren,Illinois,22702,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,594,6,369,225
+81,CA-1081,2025-04-30,2026-01-08,First Class,CUST-006,USA,South Ericaton,Ohio,87486,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,107,30,43,64
+82,CA-1082,2025-04-10,2026-03-24,Second Class,CUST-092,USA,West Sarafurt,Indiana,28788,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,931,19,143,788
+83,CA-1083,2025-09-06,2025-04-13,First Class,CUST-010,USA,Ramirezmouth,California,11027,Sugar,South,P-007,SweeTARTS,298,26,159,139
+84,CA-1084,2025-10-11,2025-11-13,Second Class,CUST-215,USA,North Kristenport,Oklahoma,70395,Sugar,East,P-011,Everlasting Gobstopper,290,25,159,131
+85,CA-1085,2025-05-12,2026-02-21,Second Class,CUST-180,USA,Lake Jessicastad,Virginia,94502,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,387,30,167,220
+86,CA-1086,2025-06-30,2026-02-13,Second Class,CUST-281,USA,Powellshire,Maryland,86226,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,592,20,315,277
+87,CA-1087,2025-08-19,2025-05-05,Second Class,CUST-235,USA,Port Kelly,New Jersey,54804,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,107,25,29,78
+88,CA-1088,2026-02-22,2025-05-15,First Class,CUST-090,USA,East Danielchester,Wyoming,86958,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,409,9,79,330
+89,CA-1089,2025-04-10,2026-03-01,Standard Class,CUST-078,USA,Kaylafurt,Kentucky,47394,Other,West,P-015,Kazookles,294,25,82,212
+90,CA-1090,2026-01-25,2025-05-05,Second Class,CUST-209,USA,Pricemouth,Indiana,75753,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,613,20,84,529
+91,CA-1091,2026-02-28,2026-03-09,Second Class,CUST-172,USA,South Erinshire,Maine,58326,Sugar,West,P-008,Nerds,342,8,267,75
+92,CA-1092,2025-08-27,2025-09-22,First Class,CUST-268,USA,South Davidborough,Michigan,34007,Sugar,Central,P-011,Everlasting Gobstopper,1000,27,528,472
+93,CA-1093,2025-05-25,2025-05-20,Standard Class,CUST-163,USA,Martineztown,Washington,25516,Other,West,P-013,Lickable Wallpaper,846,25,165,681
+94,CA-1094,2025-08-08,2026-03-15,First Class,CUST-244,USA,West Ashleyfurt,Utah,14461,Sugar,West,P-006,Laffy Taffy,502,27,125,377
+95,CA-1095,2025-12-22,2026-02-24,First Class,CUST-163,USA,Johnsonton,Wisconsin,09169,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,245,9,168,77
+96,CA-1096,2026-01-07,2025-09-03,Second Class,CUST-017,USA,North Travis,Kentucky,30251,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,480,22,90,390
+97,CA-1097,2026-01-21,2026-02-27,Second Class,CUST-282,USA,North Stephen,Delaware,08586,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,773,16,103,670
+98,CA-1098,2025-04-20,2026-03-26,Second Class,CUST-072,USA,Erinville,New Mexico,26654,Other,East,P-010,Fizzy Lifting Drinks,281,10,157,124
+99,CA-1099,2025-09-03,2025-08-01,Second Class,CUST-025,USA,Joshuaberg,Delaware,48948,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,878,8,55,823
+100,CA-1100,2025-06-18,2025-04-19,Second Class,CUST-277,USA,East Morgan,Maine,23168,Sugar,West,P-006,Laffy Taffy,528,20,244,284
+101,CA-1101,2025-05-10,2025-05-14,Second Class,CUST-250,USA,East Tara,Arizona,93549,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,208,26,112,96
+102,CA-1102,2025-05-12,2025-08-03,First Class,CUST-204,USA,Michaelland,Michigan,85556,Sugar,West,P-012,Hair Toffee,953,14,183,770
+103,CA-1103,2026-03-09,2025-05-16,Standard Class,CUST-103,USA,Richardsonfort,Delaware,37943,Sugar,East,P-006,Laffy Taffy,597,27,266,331
+104,CA-1104,2025-08-04,2025-07-22,First Class,CUST-190,USA,South Lindaville,West Virginia,38648,Sugar,West,P-012,Hair Toffee,981,8,779,202
+105,CA-1105,2025-11-25,2025-09-01,First Class,CUST-251,USA,Donaldport,Illinois,43982,Sugar,South,P-007,SweeTARTS,812,23,685,127
+106,CA-1106,2026-03-03,2025-11-06,First Class,CUST-112,USA,Port Jeanette,Oklahoma,39875,Sugar,West,P-007,SweeTARTS,562,16,448,114
+107,CA-1107,2025-09-16,2026-01-14,Standard Class,CUST-297,USA,West Mistyburgh,Montana,65745,Sugar,West,P-009,Fun Dip,906,8,238,668
+108,CA-1108,2026-01-19,2025-06-25,First Class,CUST-230,USA,Nguyenport,Arizona,27047,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,151,5,76,75
+109,CA-1109,2026-02-07,2025-12-29,Standard Class,CUST-016,USA,South Elizabeth,West Virginia,04217,Sugar,Central,P-011,Everlasting Gobstopper,142,29,82,60
+110,CA-1110,2025-09-20,2026-01-12,First Class,CUST-040,USA,New Fernando,North Carolina,95914,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,750,20,438,312
+111,CA-1111,2025-09-06,2025-11-01,Standard Class,CUST-048,USA,Georgefort,Vermont,75626,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,339,23,115,224
+112,CA-1112,2025-06-03,2025-10-20,Standard Class,CUST-153,USA,West Georgeton,South Carolina,52169,Other,Central,P-013,Lickable Wallpaper,940,6,391,549
+113,CA-1113,2026-02-10,2025-07-30,First Class,CUST-128,USA,Coleshire,Colorado,87728,Other,South,P-015,Kazookles,868,17,328,540
+114,CA-1114,2025-04-26,2025-05-15,First Class,CUST-300,USA,Amandachester,New Hampshire,90927,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,750,5,233,517
+115,CA-1115,2026-03-26,2025-08-27,First Class,CUST-160,USA,East Brandontown,Hawaii,47479,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,778,13,708,70
+116,CA-1116,2025-11-03,2025-11-27,Standard Class,CUST-044,USA,Timothymouth,Kentucky,66646,Other,West,P-013,Lickable Wallpaper,193,13,141,52
+117,CA-1117,2026-03-25,2025-04-17,First Class,CUST-111,USA,Byrdfort,New Hampshire,11642,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,757,13,620,137
+118,CA-1118,2026-01-19,2026-02-12,Standard Class,CUST-240,USA,Port Deborahchester,Arkansas,45606,Other,Central,P-014,Wonka Gum,897,28,661,236
+119,CA-1119,2026-02-20,2025-05-21,First Class,CUST-218,USA,Port Shelley,Mississippi,80299,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,697,28,340,357
+120,CA-1120,2026-01-22,2025-05-07,Second Class,CUST-166,USA,South Gregoryside,Wyoming,63201,Sugar,Central,P-008,Nerds,606,29,533,73
+121,CA-1121,2025-07-22,2025-09-02,Standard Class,CUST-053,USA,Scottport,Ohio,52764,Sugar,South,P-012,Hair Toffee,127,9,49,78
+122,CA-1122,2025-08-15,2025-09-29,Second Class,CUST-131,USA,Jacksonchester,Massachusetts,89118,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,485,12,405,80
+123,CA-1123,2025-07-02,2025-11-28,Standard Class,CUST-122,USA,New Thomas,Alaska,23693,Other,Central,P-015,Kazookles,462,19,325,137
+124,CA-1124,2025-08-02,2026-03-13,Second Class,CUST-046,USA,West Angelaview,Virginia,34551,Sugar,Central,P-009,Fun Dip,163,21,32,131
+125,CA-1125,2025-04-08,2025-08-27,First Class,CUST-288,USA,Lake Craigmouth,Texas,10633,Sugar,South,P-012,Hair Toffee,831,7,539,292
+126,CA-1126,2025-05-14,2025-07-16,Second Class,CUST-116,USA,Port Jimmy,New Hampshire,25617,Sugar,Central,P-009,Fun Dip,863,22,717,146
+127,CA-1127,2025-05-17,2025-05-27,Second Class,CUST-153,USA,Tammyport,California,60144,Other,West,P-010,Fizzy Lifting Drinks,102,17,46,56
+128,CA-1128,2026-03-11,2025-08-05,Standard Class,CUST-261,USA,Maxwellton,Hawaii,94045,Sugar,East,P-009,Fun Dip,856,18,291,565
+129,CA-1129,2025-08-04,2025-08-03,First Class,CUST-112,USA,New Patrickhaven,Idaho,53543,Other,West,P-010,Fizzy Lifting Drinks,860,12,271,589
+130,CA-1130,2025-06-01,2025-07-29,Standard Class,CUST-051,USA,New Johnview,Michigan,56370,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,847,24,648,199
+131,CA-1131,2025-07-27,2025-11-28,Standard Class,CUST-131,USA,East Meghanville,Illinois,52467,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,343,8,186,157
+132,CA-1132,2025-12-31,2025-08-14,Second Class,CUST-200,USA,Elizabethberg,Maine,52946,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,889,24,695,194
+133,CA-1133,2025-09-28,2025-08-13,Standard Class,CUST-079,USA,West Laurenside,Michigan,57609,Other,West,P-015,Kazookles,244,16,23,221
+134,CA-1134,2026-01-05,2026-03-06,First Class,CUST-076,USA,North Juanberg,Georgia,51460,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,108,8,54,54
+135,CA-1135,2025-04-23,2025-05-20,First Class,CUST-080,USA,Munozmouth,Kentucky,48981,Sugar,Central,P-012,Hair Toffee,333,21,233,100
+136,CA-1136,2025-06-20,2025-11-12,Standard Class,CUST-176,USA,Meganhaven,Wisconsin,07291,Other,East,P-014,Wonka Gum,615,13,89,526
+137,CA-1137,2025-09-23,2025-05-22,Second Class,CUST-300,USA,Shepherdhaven,Nevada,07606,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,892,29,650,242
+138,CA-1138,2025-04-24,2025-05-17,Second Class,CUST-180,USA,Davidview,Washington,22614,Sugar,East,P-012,Hair Toffee,499,10,133,366
+139,CA-1139,2025-12-23,2026-01-16,Second Class,CUST-228,USA,Andreaborough,Louisiana,70864,Sugar,Central,P-008,Nerds,556,5,351,205
+140,CA-1140,2025-07-13,2025-08-15,Standard Class,CUST-274,USA,East Shannon,Oregon,15546,Sugar,Central,P-008,Nerds,640,11,165,475
+141,CA-1141,2025-10-18,2025-05-25,First Class,CUST-170,USA,West Emma,West Virginia,35482,Other,South,P-010,Fizzy Lifting Drinks,977,9,710,267
+142,CA-1142,2025-07-24,2025-06-19,Second Class,CUST-019,USA,Johnmouth,Vermont,51951,Sugar,East,P-006,Laffy Taffy,170,6,111,59
+143,CA-1143,2026-02-11,2026-03-01,Second Class,CUST-289,USA,Staceytown,Maine,32628,Other,Central,P-013,Lickable Wallpaper,440,6,204,236
+144,CA-1144,2025-04-11,2025-11-08,Second Class,CUST-069,USA,Makaylaburgh,Arkansas,77393,Other,South,P-010,Fizzy Lifting Drinks,848,29,532,316
+145,CA-1145,2025-12-10,2025-06-22,Second Class,CUST-220,USA,South Tonyamouth,North Carolina,93829,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,495,28,286,209
+146,CA-1146,2025-05-23,2026-03-31,Second Class,CUST-210,USA,Lake Anaberg,Michigan,37161,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,110,24,45,65
+147,CA-1147,2026-01-14,2025-09-09,First Class,CUST-050,USA,Craigberg,Kentucky,08163,Sugar,South,P-009,Fun Dip,667,11,35,632
+148,CA-1148,2026-01-22,2025-06-11,Standard Class,CUST-276,USA,Ianfort,Maryland,47977,Other,South,P-013,Lickable Wallpaper,355,9,118,237
+149,CA-1149,2025-06-13,2025-11-26,Second Class,CUST-103,USA,Wrightshire,New York,57990,Sugar,Central,P-007,SweeTARTS,472,25,253,219
+150,CA-1150,2025-07-25,2026-02-19,Standard Class,CUST-139,USA,Lauriemouth,Oklahoma,25350,Other,Central,P-013,Lickable Wallpaper,153,9,79,74
+151,CA-1151,2025-09-08,2025-10-13,Standard Class,CUST-143,USA,Johnsonstad,Nebraska,70236,Other,East,P-010,Fizzy Lifting Drinks,671,26,435,236
+152,CA-1152,2025-12-14,2025-04-05,Second Class,CUST-094,USA,Edwardbury,Maryland,29286,Other,East,P-013,Lickable Wallpaper,537,20,49,488
+153,CA-1153,2025-10-09,2026-01-27,Standard Class,CUST-241,USA,Hannahside,North Dakota,18036,Other,South,P-013,Lickable Wallpaper,157,17,54,103
+154,CA-1154,2026-03-03,2025-09-01,First Class,CUST-081,USA,Lake Evan,South Carolina,49435,Sugar,Central,P-011,Everlasting Gobstopper,509,9,87,422
+155,CA-1155,2025-09-18,2026-01-07,Second Class,CUST-217,USA,Howellberg,Rhode Island,14226,Sugar,Central,P-007,SweeTARTS,588,23,509,79
+156,CA-1156,2025-10-03,2025-09-29,Second Class,CUST-255,USA,Lake Kelseyport,Kentucky,29884,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,211,15,124,87
+157,CA-1157,2025-08-29,2025-06-16,Standard Class,CUST-097,USA,Richardfort,New York,92569,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,907,27,639,268
+158,CA-1158,2025-04-30,2025-07-20,Standard Class,CUST-259,USA,North John,New Jersey,39158,Sugar,South,P-012,Hair Toffee,573,10,131,442
+159,CA-1159,2025-05-22,2026-02-28,First Class,CUST-199,USA,Nicholasstad,Idaho,84817,Sugar,West,P-006,Laffy Taffy,1000,23,466,534
+160,CA-1160,2025-07-14,2025-04-29,Second Class,CUST-125,USA,Wilsonland,North Dakota,76673,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,886,20,615,271
+161,CA-1161,2025-05-16,2025-04-01,Standard Class,CUST-161,USA,Kellyton,Vermont,92337,Sugar,Central,P-011,Everlasting Gobstopper,237,20,175,62
+162,CA-1162,2026-02-25,2025-08-27,Second Class,CUST-223,USA,New Melanie,Kansas,47629,Sugar,West,P-007,SweeTARTS,330,28,207,123
+163,CA-1163,2025-09-03,2025-07-30,First Class,CUST-238,USA,South Jameston,South Carolina,66047,Sugar,South,P-008,Nerds,977,26,483,494
+164,CA-1164,2025-11-26,2026-02-20,Second Class,CUST-239,USA,Lake Richardshire,Delaware,46553,Sugar,West,P-011,Everlasting Gobstopper,727,10,50,677
+165,CA-1165,2025-07-07,2025-10-23,Second Class,CUST-235,USA,Leton,Wisconsin,57015,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,529,22,340,189
+166,CA-1166,2025-06-29,2025-07-21,First Class,CUST-110,USA,Marthaville,Louisiana,30699,Sugar,West,P-009,Fun Dip,692,17,45,647
+167,CA-1167,2025-06-08,2026-03-05,Second Class,CUST-038,USA,East Anna,Arizona,72332,Sugar,Central,P-011,Everlasting Gobstopper,537,21,275,262
+168,CA-1168,2026-03-09,2025-08-24,Standard Class,CUST-243,USA,Port Gabrielle,Minnesota,45302,Sugar,Central,P-012,Hair Toffee,912,9,105,807
+169,CA-1169,2025-12-17,2025-12-11,Second Class,CUST-234,USA,West Jacobview,Hawaii,97442,Other,East,P-013,Lickable Wallpaper,314,20,184,130
+170,CA-1170,2026-02-13,2025-04-01,Standard Class,CUST-072,USA,Nathanburgh,New Jersey,41128,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,163,25,27,136
+171,CA-1171,2026-03-20,2025-10-08,Second Class,CUST-212,USA,Lake Bridgetmouth,Virginia,93504,Sugar,West,P-007,SweeTARTS,996,22,508,488
+172,CA-1172,2025-08-20,2026-03-03,Second Class,CUST-253,USA,New Meghan,Pennsylvania,03553,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,674,22,590,84
+173,CA-1173,2025-04-02,2026-03-02,First Class,CUST-214,USA,Lake Jenniferland,Mississippi,71481,Other,West,P-015,Kazookles,630,6,391,239
+174,CA-1174,2026-01-02,2025-10-23,Standard Class,CUST-261,USA,West Roymouth,Rhode Island,30444,Sugar,East,P-006,Laffy Taffy,478,19,44,434
+175,CA-1175,2025-09-28,2025-04-09,First Class,CUST-037,USA,West Paulberg,Iowa,99454,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,289,28,126,163
+176,CA-1176,2025-11-11,2025-09-03,Standard Class,CUST-182,USA,Lake Tyler,Arkansas,38715,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,802,28,650,152
+177,CA-1177,2025-12-22,2025-11-25,First Class,CUST-026,USA,Stephaniefurt,New York,46165,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,661,25,22,639
+178,CA-1178,2026-03-21,2025-04-14,First Class,CUST-155,USA,North Angela,Oregon,97378,Other,West,P-010,Fizzy Lifting Drinks,804,5,100,704
+179,CA-1179,2026-02-07,2025-06-01,Standard Class,CUST-206,USA,Washingtonstad,Alaska,16336,Sugar,West,P-006,Laffy Taffy,458,21,344,114
+180,CA-1180,2025-06-01,2025-07-22,Standard Class,CUST-201,USA,Peggymouth,Arizona,11594,Other,Central,P-015,Kazookles,678,6,108,570
+181,CA-1181,2026-01-09,2025-10-26,Second Class,CUST-211,USA,East Bonnie,Massachusetts,30215,Sugar,South,P-008,Nerds,459,23,399,60
+182,CA-1182,2026-01-10,2025-12-18,Standard Class,CUST-105,USA,Coltonbury,Oklahoma,94155,Sugar,South,P-012,Hair Toffee,533,27,256,277
+183,CA-1183,2026-02-05,2025-06-20,First Class,CUST-025,USA,Washingtonland,Iowa,07714,Sugar,East,P-006,Laffy Taffy,520,27,155,365
+184,CA-1184,2025-10-29,2025-06-07,Standard Class,CUST-078,USA,Moorefurt,Oklahoma,20288,Sugar,Central,P-009,Fun Dip,961,23,850,111
+185,CA-1185,2025-11-12,2026-02-08,Second Class,CUST-132,USA,Port Michaelborough,Florida,79494,Sugar,West,P-007,SweeTARTS,532,24,201,331
+186,CA-1186,2025-04-10,2026-03-19,First Class,CUST-077,USA,East Mckenzieside,Kentucky,48008,Other,South,P-014,Wonka Gum,269,11,62,207
+187,CA-1187,2026-01-26,2026-03-29,Second Class,CUST-033,USA,Tiffanyhaven,Georgia,75641,Sugar,West,P-007,SweeTARTS,766,14,493,273
+188,CA-1188,2025-10-29,2026-03-23,Second Class,CUST-026,USA,New Michaelton,South Dakota,65421,Sugar,South,P-012,Hair Toffee,713,26,97,616
+189,CA-1189,2025-07-16,2025-04-16,First Class,CUST-120,USA,West Kristenstad,Florida,51054,Sugar,East,P-008,Nerds,991,9,372,619
+190,CA-1190,2025-10-27,2025-09-27,Second Class,CUST-173,USA,Lake Travisbury,New Hampshire,93936,Sugar,West,P-008,Nerds,806,10,35,771
+191,CA-1191,2025-12-13,2025-11-19,Second Class,CUST-108,USA,East Kennethberg,Alaska,41009,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,922,29,39,883
+192,CA-1192,2025-12-03,2025-12-04,Standard Class,CUST-024,USA,West Sabrinaville,Virginia,24598,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,333,27,121,212
+193,CA-1193,2026-02-27,2025-05-19,Standard Class,CUST-211,USA,North Michael,Rhode Island,84175,Other,East,P-010,Fizzy Lifting Drinks,490,19,134,356
+194,CA-1194,2025-07-14,2025-06-21,Standard Class,CUST-107,USA,Lake George,Nevada,43870,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,910,29,116,794
+195,CA-1195,2025-06-05,2025-10-08,Standard Class,CUST-290,USA,Hendricksstad,Oregon,34179,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,103,17,48,55
+196,CA-1196,2025-07-28,2025-09-28,Second Class,CUST-180,USA,Rodriguezport,Kansas,14216,Other,West,P-013,Lickable Wallpaper,458,8,391,67
+197,CA-1197,2025-04-22,2026-03-17,Second Class,CUST-173,USA,Port Mark,North Dakota,46866,Sugar,South,P-012,Hair Toffee,826,16,328,498
+198,CA-1198,2026-02-15,2025-08-26,Second Class,CUST-014,USA,New Juanmouth,California,25057,Sugar,Central,P-007,SweeTARTS,257,18,160,97
+199,CA-1199,2026-02-04,2025-06-12,Second Class,CUST-072,USA,East Sarah,Rhode Island,30438,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,845,28,652,193
+200,CA-1200,2025-06-16,2025-08-23,First Class,CUST-254,USA,Lake Susan,Texas,48223,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,385,24,20,365
+201,CA-1201,2025-06-27,2025-12-06,First Class,CUST-248,USA,North Shariport,Louisiana,99444,Other,West,P-010,Fizzy Lifting Drinks,932,19,197,735
+202,CA-1202,2026-01-20,2025-10-08,First Class,CUST-291,USA,New Eric,Tennessee,17772,Sugar,Central,P-008,Nerds,971,15,79,892
+203,CA-1203,2025-04-21,2025-10-03,Standard Class,CUST-235,USA,South Makaylachester,Georgia,98948,Sugar,Central,P-009,Fun Dip,200,11,91,109
+204,CA-1204,2025-10-15,2025-04-24,Standard Class,CUST-250,USA,Danastad,Washington,52781,Other,East,P-014,Wonka Gum,794,28,159,635
+205,CA-1205,2025-06-20,2025-10-03,First Class,CUST-020,USA,East Robert,Arkansas,09358,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,971,17,599,372
+206,CA-1206,2025-09-18,2026-01-15,Second Class,CUST-105,USA,New Kristinmouth,Arkansas,39661,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,712,30,468,244
+207,CA-1207,2025-09-15,2025-10-20,Second Class,CUST-116,USA,New Barbaraville,Mississippi,24661,Other,Central,P-013,Lickable Wallpaper,486,21,435,51
+208,CA-1208,2025-07-04,2025-11-07,First Class,CUST-043,USA,Port Peterhaven,Maryland,81670,Other,West,P-010,Fizzy Lifting Drinks,157,27,73,84
+209,CA-1209,2025-09-15,2026-04-01,Standard Class,CUST-123,USA,New Juliebury,New York,31937,Other,Central,P-013,Lickable Wallpaper,596,19,93,503
+210,CA-1210,2025-11-21,2025-09-22,First Class,CUST-164,USA,Meganborough,Wyoming,64169,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,739,24,605,134
+211,CA-1211,2025-06-14,2026-01-07,First Class,CUST-034,USA,East Stephanieville,Iowa,21162,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,886,23,336,550
+212,CA-1212,2025-05-22,2025-12-27,Standard Class,CUST-070,USA,West Katiemouth,Oregon,68143,Other,East,P-010,Fizzy Lifting Drinks,250,27,137,113
+213,CA-1213,2025-12-29,2025-11-21,Second Class,CUST-041,USA,New Brianburgh,Kansas,75449,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,603,11,316,287
+214,CA-1214,2025-12-20,2025-05-09,First Class,CUST-139,USA,Harperburgh,Illinois,30536,Sugar,East,P-011,Everlasting Gobstopper,796,15,169,627
+215,CA-1215,2025-06-30,2025-11-30,Second Class,CUST-286,USA,Karenborough,Pennsylvania,53695,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,540,7,166,374
+216,CA-1216,2025-06-21,2026-02-08,First Class,CUST-054,USA,Griffithview,Idaho,70795,Other,South,P-014,Wonka Gum,126,14,67,59
+217,CA-1217,2025-07-01,2025-11-23,First Class,CUST-155,USA,Lake Brianport,Arkansas,97544,Other,East,P-013,Lickable Wallpaper,952,24,351,601
+218,CA-1218,2025-10-01,2025-06-26,Standard Class,CUST-274,USA,Thorntonbury,Kentucky,02247,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,586,25,86,500
+219,CA-1219,2025-06-15,2025-07-23,Second Class,CUST-015,USA,North Nicholas,Minnesota,87923,Sugar,Central,P-008,Nerds,318,9,123,195
+220,CA-1220,2025-11-02,2025-05-28,Second Class,CUST-060,USA,North Sierra,Idaho,47669,Other,East,P-010,Fizzy Lifting Drinks,477,22,82,395
+221,CA-1221,2025-04-25,2026-03-30,Standard Class,CUST-123,USA,Port Johnmouth,North Dakota,32258,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,984,20,532,452
+222,CA-1222,2026-02-18,2025-07-31,Second Class,CUST-276,USA,Matthewhaven,Massachusetts,95664,Sugar,Central,P-011,Everlasting Gobstopper,563,17,207,356
+223,CA-1223,2025-08-21,2025-12-16,Standard Class,CUST-028,USA,Lake Jason,Missouri,55823,Other,South,P-010,Fizzy Lifting Drinks,476,25,390,86
+224,CA-1224,2026-03-04,2025-06-14,First Class,CUST-201,USA,Diazmouth,Minnesota,22178,Other,East,P-010,Fizzy Lifting Drinks,268,30,63,205
+225,CA-1225,2025-10-16,2025-09-26,Standard Class,CUST-064,USA,Rogersburgh,South Carolina,85763,Sugar,East,P-007,SweeTARTS,934,13,699,235
+226,CA-1226,2025-09-07,2026-01-18,First Class,CUST-289,USA,North Jacobmouth,Ohio,15234,Sugar,Central,P-012,Hair Toffee,546,10,202,344
+227,CA-1227,2025-06-25,2025-07-04,First Class,CUST-066,USA,Lake Ronald,Colorado,24685,Other,South,P-013,Lickable Wallpaper,950,14,54,896
+228,CA-1228,2026-03-01,2025-11-28,Standard Class,CUST-111,USA,Evelynfurt,Nevada,77838,Sugar,Central,P-008,Nerds,893,25,537,356
+229,CA-1229,2025-12-25,2026-01-07,First Class,CUST-280,USA,Lopezside,Maine,77103,Sugar,West,P-008,Nerds,904,21,244,660
+230,CA-1230,2025-04-30,2025-10-17,Standard Class,CUST-282,USA,West Eddiebury,Alaska,94547,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,744,17,592,152
+231,CA-1231,2025-07-19,2026-02-28,Second Class,CUST-020,USA,Stephaniefurt,Washington,96268,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,442,6,339,103
+232,CA-1232,2025-06-16,2026-01-10,Standard Class,CUST-230,USA,Torreschester,Minnesota,59555,Sugar,West,P-007,SweeTARTS,156,28,103,53
+233,CA-1233,2025-08-07,2026-03-08,First Class,CUST-116,USA,Johnsonmouth,Michigan,66508,Sugar,Central,P-011,Everlasting Gobstopper,426,21,78,348
+234,CA-1234,2025-08-03,2025-04-15,First Class,CUST-197,USA,Karenfurt,New Mexico,05439,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,909,18,24,885
+235,CA-1235,2025-04-09,2025-06-05,Standard Class,CUST-086,USA,Jonesborough,Virginia,83363,Other,West,P-010,Fizzy Lifting Drinks,398,26,123,275
+236,CA-1236,2025-12-05,2025-12-14,Second Class,CUST-033,USA,Freemanhaven,Utah,59446,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,965,14,681,284
+237,CA-1237,2025-07-03,2025-09-04,Second Class,CUST-161,USA,Donnaport,North Carolina,96442,Sugar,South,P-007,SweeTARTS,248,13,43,205
+238,CA-1238,2026-02-18,2025-04-23,Standard Class,CUST-008,USA,Clarkbury,Oregon,19136,Other,West,P-013,Lickable Wallpaper,189,18,51,138
+239,CA-1239,2026-02-13,2026-01-03,Standard Class,CUST-065,USA,Michelletown,Vermont,29765,Sugar,East,P-011,Everlasting Gobstopper,681,30,41,640
+240,CA-1240,2025-06-06,2025-04-05,Standard Class,CUST-018,USA,Waltersberg,Florida,42679,Other,West,P-015,Kazookles,112,8,34,78
+241,CA-1241,2025-06-28,2026-01-06,First Class,CUST-140,USA,North Hollyburgh,Iowa,62337,Other,South,P-013,Lickable Wallpaper,720,29,266,454
+242,CA-1242,2026-01-27,2025-05-31,Second Class,CUST-242,USA,Andrewburgh,Rhode Island,36510,Sugar,West,P-007,SweeTARTS,894,6,83,811
+243,CA-1243,2026-02-15,2025-09-10,Standard Class,CUST-296,USA,Leeburgh,Pennsylvania,94986,Sugar,East,P-012,Hair Toffee,974,12,797,177
+244,CA-1244,2025-10-29,2026-02-22,First Class,CUST-295,USA,New Anthony,Colorado,40684,Sugar,South,P-006,Laffy Taffy,278,15,51,227
+245,CA-1245,2025-10-06,2025-04-16,Second Class,CUST-009,USA,Danielleland,Minnesota,54969,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,531,12,395,136
+246,CA-1246,2025-11-10,2025-10-01,First Class,CUST-088,USA,Anthonyburgh,Idaho,06904,Other,Central,P-015,Kazookles,558,6,67,491
+247,CA-1247,2025-12-08,2025-04-10,Second Class,CUST-086,USA,Christinabury,Arizona,13871,Sugar,East,P-009,Fun Dip,500,20,62,438
+248,CA-1248,2025-05-28,2025-05-15,Second Class,CUST-276,USA,Comptonborough,New Mexico,22011,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,923,29,205,718
+249,CA-1249,2025-10-19,2026-02-22,First Class,CUST-138,USA,Lake Amanda,Missouri,45513,Other,East,P-015,Kazookles,131,6,30,101
+250,CA-1250,2026-02-22,2025-11-27,First Class,CUST-005,USA,South Jordan,South Carolina,55245,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,209,28,154,55
+251,CA-1251,2025-05-13,2025-09-25,First Class,CUST-292,USA,New Veronica,Nevada,57753,Sugar,Central,P-007,SweeTARTS,864,9,631,233
+252,CA-1252,2025-10-02,2026-02-06,Second Class,CUST-073,USA,Costaburgh,Oregon,13761,Other,Central,P-013,Lickable Wallpaper,556,16,170,386
+253,CA-1253,2025-12-09,2025-12-19,Standard Class,CUST-034,USA,West Sarahfurt,California,91314,Other,South,P-015,Kazookles,424,8,346,78
+254,CA-1254,2025-10-20,2025-05-31,Second Class,CUST-210,USA,East Curtis,Virginia,98660,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,851,29,411,440
+255,CA-1255,2025-09-23,2025-11-03,First Class,CUST-205,USA,Williamborough,Pennsylvania,99780,Sugar,East,P-008,Nerds,296,9,55,241
+256,CA-1256,2025-07-18,2025-09-08,First Class,CUST-282,USA,Pooleshire,New York,96926,Other,East,P-015,Kazookles,781,7,611,170
+257,CA-1257,2026-01-23,2025-09-11,Standard Class,CUST-152,USA,North Bradleyside,Arizona,68198,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,429,14,125,304
+258,CA-1258,2025-06-03,2025-12-07,Second Class,CUST-014,USA,South Shannon,California,32487,Other,South,P-013,Lickable Wallpaper,714,10,487,227
+259,CA-1259,2025-08-09,2026-01-03,Second Class,CUST-021,USA,East Alexander,New York,49935,Sugar,South,P-012,Hair Toffee,839,10,728,111
+260,CA-1260,2026-03-01,2025-10-17,Standard Class,CUST-090,USA,Rachaelbury,Arkansas,49858,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,788,12,294,494
+261,CA-1261,2025-10-04,2025-06-24,First Class,CUST-191,USA,North Jessicachester,Washington,25459,Other,West,P-014,Wonka Gum,272,11,73,199
+262,CA-1262,2026-02-28,2025-05-24,Standard Class,CUST-226,USA,West Anthonymouth,Delaware,42191,Other,Central,P-010,Fizzy Lifting Drinks,809,14,633,176
+263,CA-1263,2026-03-27,2026-02-09,First Class,CUST-223,USA,Bakerchester,Georgia,38172,Sugar,West,P-012,Hair Toffee,419,6,74,345
+264,CA-1264,2025-11-05,2026-01-03,First Class,CUST-155,USA,Carrollburgh,Louisiana,71763,Sugar,South,P-006,Laffy Taffy,712,29,263,449
+265,CA-1265,2026-01-18,2026-01-18,Second Class,CUST-034,USA,Port Tina,Illinois,89737,Sugar,South,P-006,Laffy Taffy,104,8,38,66
+266,CA-1266,2025-07-21,2026-02-03,Standard Class,CUST-283,USA,Tiffanyview,West Virginia,53901,Other,West,P-010,Fizzy Lifting Drinks,481,19,74,407
+267,CA-1267,2025-11-09,2025-11-01,Second Class,CUST-234,USA,North Jean,Rhode Island,52214,Other,East,P-014,Wonka Gum,190,18,36,154
+268,CA-1268,2025-10-28,2025-06-01,Standard Class,CUST-081,USA,Amberstad,Pennsylvania,63243,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,880,21,133,747
+269,CA-1269,2025-05-22,2026-01-06,First Class,CUST-239,USA,Michaelfurt,Kansas,56259,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,596,15,236,360
+270,CA-1270,2025-11-16,2025-11-29,Standard Class,CUST-132,USA,Gonzalezview,Oregon,20507,Sugar,Central,P-011,Everlasting Gobstopper,329,27,208,121
+271,CA-1271,2025-09-03,2025-04-02,First Class,CUST-268,USA,East Stevenmouth,Maryland,67653,Other,Central,P-013,Lickable Wallpaper,368,21,66,302
+272,CA-1272,2025-05-22,2026-03-14,Second Class,CUST-046,USA,South Sarahmouth,Maine,32301,Sugar,West,P-007,SweeTARTS,775,8,112,663
+273,CA-1273,2025-12-12,2026-02-02,Second Class,CUST-062,USA,Mcgeeberg,Idaho,63015,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,602,5,210,392
+274,CA-1274,2025-04-15,2026-03-08,First Class,CUST-167,USA,North Victoriastad,Ohio,16212,Sugar,Central,P-008,Nerds,614,20,407,207
+275,CA-1275,2026-01-20,2026-01-13,Second Class,CUST-221,USA,West Jill,Massachusetts,68059,Sugar,East,P-011,Everlasting Gobstopper,975,18,918,57
+276,CA-1276,2025-10-25,2025-11-14,Second Class,CUST-299,USA,Lindaport,California,79618,Sugar,West,P-007,SweeTARTS,185,18,113,72
+277,CA-1277,2025-09-21,2025-12-06,Second Class,CUST-214,USA,Benjaminside,Michigan,39300,Sugar,West,P-012,Hair Toffee,764,11,393,371
+278,CA-1278,2026-03-10,2025-05-17,Second Class,CUST-247,USA,Patriciaberg,Washington,85722,Other,East,P-010,Fizzy Lifting Drinks,296,9,150,146
+279,CA-1279,2025-06-26,2025-08-13,First Class,CUST-236,USA,Kevinhaven,New Jersey,66566,Other,East,P-015,Kazookles,283,14,134,149
+280,CA-1280,2025-12-09,2026-02-04,Second Class,CUST-224,USA,Harperside,Minnesota,36581,Sugar,Central,P-009,Fun Dip,921,22,132,789
+281,CA-1281,2026-03-24,2025-09-13,Second Class,CUST-245,USA,South Coreymouth,Washington,05383,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,271,14,42,229
+282,CA-1282,2026-02-21,2025-07-30,Standard Class,CUST-181,USA,West Patrick,Louisiana,45171,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,604,21,267,337
+283,CA-1283,2025-12-12,2026-03-17,Standard Class,CUST-215,USA,South Melinda,Florida,58018,Sugar,West,P-009,Fun Dip,553,29,329,224
+284,CA-1284,2025-12-06,2025-07-14,First Class,CUST-047,USA,Cooperfort,Idaho,17069,Sugar,East,P-012,Hair Toffee,198,30,38,160
+285,CA-1285,2025-12-22,2025-07-06,First Class,CUST-010,USA,Dennisfurt,Mississippi,21645,Sugar,South,P-009,Fun Dip,136,18,28,108
+286,CA-1286,2025-09-07,2026-03-06,First Class,CUST-218,USA,Noahbury,Connecticut,16431,Other,Central,P-010,Fizzy Lifting Drinks,913,8,315,598
+287,CA-1287,2025-06-09,2026-01-08,Second Class,CUST-095,USA,Nicoletown,Maine,53131,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,712,28,293,419
+288,CA-1288,2025-04-09,2025-09-05,First Class,CUST-248,USA,Williamstown,Nebraska,69067,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,212,29,22,190
+289,CA-1289,2025-09-11,2026-03-12,Second Class,CUST-120,USA,Jordanstad,Texas,09156,Sugar,East,P-012,Hair Toffee,402,11,116,286
+290,CA-1290,2026-02-02,2025-04-13,Standard Class,CUST-158,USA,Tapiamouth,Mississippi,69816,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,983,28,694,289
+291,CA-1291,2025-07-22,2026-01-13,Standard Class,CUST-245,USA,North Marissa,California,94379,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,156,7,73,83
+292,CA-1292,2026-03-30,2025-10-15,Second Class,CUST-025,USA,Jonathanview,Missouri,43354,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,690,11,627,63
+293,CA-1293,2025-05-30,2025-07-13,First Class,CUST-128,USA,Oneillberg,Michigan,95391,Other,Central,P-014,Wonka Gum,513,18,302,211
+294,CA-1294,2025-05-31,2025-04-21,Standard Class,CUST-149,USA,New Charles,Tennessee,87659,Sugar,East,P-009,Fun Dip,487,21,36,451
+295,CA-1295,2025-04-09,2025-09-01,First Class,CUST-014,USA,Christopherside,Kansas,90648,Sugar,South,P-009,Fun Dip,951,10,332,619
+296,CA-1296,2025-10-09,2026-03-19,Standard Class,CUST-296,USA,Nicolechester,Iowa,53763,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,865,19,472,393
+297,CA-1297,2025-10-15,2025-11-28,Standard Class,CUST-109,USA,Garnerport,North Carolina,30341,Sugar,East,P-011,Everlasting Gobstopper,647,20,211,436
+298,CA-1298,2025-09-12,2026-03-01,First Class,CUST-188,USA,Riverahaven,Texas,69212,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,871,5,330,541
+299,CA-1299,2025-07-27,2025-08-19,First Class,CUST-138,USA,Jamiefort,Virginia,92572,Sugar,Central,P-006,Laffy Taffy,675,15,129,546
+300,CA-1300,2025-05-07,2026-01-15,Standard Class,CUST-062,USA,Smithshire,Michigan,71121,Sugar,West,P-007,SweeTARTS,475,28,353,122
+301,CA-1301,2025-12-12,2025-04-06,First Class,CUST-129,USA,New Corey,Washington,66420,Sugar,West,P-008,Nerds,479,29,221,258
+302,CA-1302,2026-01-08,2025-11-26,Second Class,CUST-123,USA,Adamsland,Louisiana,21233,Sugar,East,P-009,Fun Dip,243,23,142,101
+303,CA-1303,2026-02-25,2025-04-07,Second Class,CUST-055,USA,Hardinbury,Georgia,16318,Other,East,P-013,Lickable Wallpaper,252,22,188,64
+304,CA-1304,2026-02-25,2026-01-24,First Class,CUST-183,USA,Phillipsland,Oregon,98257,Sugar,West,P-007,SweeTARTS,443,25,368,75
+305,CA-1305,2025-04-16,2025-11-30,Second Class,CUST-196,USA,Justinchester,Wisconsin,95963,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,220,21,94,126
+306,CA-1306,2025-09-06,2025-07-08,Standard Class,CUST-059,USA,Harristown,Illinois,39393,Other,Central,P-015,Kazookles,221,22,144,77
+307,CA-1307,2025-08-30,2025-05-26,First Class,CUST-235,USA,Lauraview,West Virginia,39789,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,380,10,34,346
+308,CA-1308,2026-02-18,2025-06-13,Second Class,CUST-013,USA,North Debra,Missouri,16393,Sugar,Central,P-007,SweeTARTS,437,16,255,182
+309,CA-1309,2025-12-05,2025-11-11,Second Class,CUST-282,USA,Edwardsberg,Connecticut,17959,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,359,17,287,72
+310,CA-1310,2025-11-17,2025-04-01,Second Class,CUST-267,USA,East Kimberlyville,Arkansas,57404,Other,East,P-015,Kazookles,980,30,679,301
+311,CA-1311,2025-05-19,2025-04-02,Second Class,CUST-163,USA,North Corey,South Dakota,14946,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,381,16,317,64
+312,CA-1312,2025-05-30,2025-05-07,First Class,CUST-049,USA,Mcgeeview,North Carolina,68453,Sugar,East,P-009,Fun Dip,376,23,247,129
+313,CA-1313,2026-01-14,2025-09-07,First Class,CUST-018,USA,East Karen,Massachusetts,63418,Other,South,P-010,Fizzy Lifting Drinks,478,28,45,433
+314,CA-1314,2025-05-13,2025-07-03,Second Class,CUST-089,USA,New Linda,Connecticut,40070,Other,South,P-015,Kazookles,715,13,337,378
+315,CA-1315,2025-11-27,2025-12-10,Standard Class,CUST-142,USA,Judithshire,Kansas,43314,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,954,5,707,247
+316,CA-1316,2025-11-04,2025-06-27,Standard Class,CUST-108,USA,Rachelville,Nevada,42361,Sugar,East,P-007,SweeTARTS,331,10,200,131
+317,CA-1317,2025-06-01,2025-04-30,Standard Class,CUST-124,USA,South Faith,Kentucky,50017,Sugar,Central,P-011,Everlasting Gobstopper,855,13,769,86
+318,CA-1318,2025-10-25,2025-06-17,Second Class,CUST-220,USA,Morenomouth,Mississippi,60604,Sugar,West,P-011,Everlasting Gobstopper,990,10,626,364
+319,CA-1319,2025-11-17,2025-12-03,Second Class,CUST-257,USA,New Johnfurt,Nevada,89610,Other,East,P-013,Lickable Wallpaper,773,9,399,374
+320,CA-1320,2025-08-07,2025-10-19,Standard Class,CUST-254,USA,New Melissa,Montana,40913,Other,Central,P-010,Fizzy Lifting Drinks,301,8,193,108
+321,CA-1321,2025-08-21,2025-12-06,Second Class,CUST-202,USA,Port Sylvia,Alaska,49416,Other,West,P-010,Fizzy Lifting Drinks,767,8,383,384
+322,CA-1322,2025-05-06,2025-04-29,First Class,CUST-116,USA,Phyllisville,Arizona,36616,Sugar,South,P-009,Fun Dip,315,20,43,272
+323,CA-1323,2026-03-25,2025-10-16,Second Class,CUST-245,USA,Port Kimberlyton,Alaska,29121,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,566,25,468,98
+324,CA-1324,2025-06-28,2025-05-21,Second Class,CUST-194,USA,Holtton,Missouri,18616,Sugar,West,P-008,Nerds,714,13,438,276
+325,CA-1325,2026-03-05,2025-06-19,Standard Class,CUST-144,USA,Lake Jamieville,West Virginia,40646,Other,East,P-014,Wonka Gum,848,30,307,541
+326,CA-1326,2025-10-18,2026-02-11,Second Class,CUST-145,USA,New Kenneth,Louisiana,57790,Sugar,West,P-012,Hair Toffee,377,17,153,224
+327,CA-1327,2025-08-19,2025-05-16,First Class,CUST-097,USA,Ritterton,Kansas,85875,Other,South,P-013,Lickable Wallpaper,292,16,135,157
+328,CA-1328,2025-07-10,2025-08-16,Second Class,CUST-197,USA,North Evan,Mississippi,70093,Sugar,Central,P-006,Laffy Taffy,236,8,38,198
+329,CA-1329,2025-09-03,2025-04-25,First Class,CUST-263,USA,Heatherland,Washington,84577,Sugar,West,P-008,Nerds,441,15,25,416
+330,CA-1330,2025-11-23,2025-08-27,First Class,CUST-114,USA,North Carolinefurt,Maine,38725,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,228,8,60,168
+331,CA-1331,2026-02-14,2025-08-20,First Class,CUST-243,USA,Maldonadoside,Montana,74616,Other,South,P-013,Lickable Wallpaper,652,25,293,359
+332,CA-1332,2025-10-27,2025-12-30,Standard Class,CUST-039,USA,East Maryview,Utah,99596,Other,Central,P-015,Kazookles,497,6,228,269
+333,CA-1333,2025-09-26,2025-04-18,Standard Class,CUST-287,USA,Reynoldsview,New Jersey,77118,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,939,26,781,158
+334,CA-1334,2026-02-28,2025-07-13,Second Class,CUST-072,USA,Lake Reginaland,Ohio,36161,Other,West,P-015,Kazookles,265,16,29,236
+335,CA-1335,2025-06-02,2025-10-15,Second Class,CUST-074,USA,South Jason,Ohio,01167,Sugar,South,P-009,Fun Dip,719,8,461,258
+336,CA-1336,2025-05-27,2025-05-22,Second Class,CUST-159,USA,Melissaberg,Pennsylvania,59310,Sugar,South,P-011,Everlasting Gobstopper,166,24,73,93
+337,CA-1337,2026-03-30,2025-07-26,First Class,CUST-098,USA,North Johnfort,Alabama,48034,Sugar,West,P-011,Everlasting Gobstopper,627,20,162,465
+338,CA-1338,2025-04-21,2026-01-18,Second Class,CUST-094,USA,Tatemouth,Louisiana,75332,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,699,9,174,525
+339,CA-1339,2025-10-27,2025-12-28,Second Class,CUST-103,USA,Martinezbury,New Hampshire,67400,Sugar,West,P-008,Nerds,691,10,270,421
+340,CA-1340,2025-07-07,2026-01-07,First Class,CUST-131,USA,Vasquezhaven,New Jersey,11577,Sugar,East,P-006,Laffy Taffy,377,9,176,201
+341,CA-1341,2026-02-16,2026-01-29,Second Class,CUST-103,USA,New Toddville,Indiana,93479,Other,Central,P-010,Fizzy Lifting Drinks,752,6,376,376
+342,CA-1342,2025-06-12,2025-04-24,First Class,CUST-206,USA,West Morganport,Indiana,33921,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,593,27,50,543
+343,CA-1343,2025-05-22,2025-11-09,Standard Class,CUST-272,USA,Cohenshire,Maryland,43729,Other,East,P-015,Kazookles,141,20,68,73
+344,CA-1344,2025-10-24,2025-05-22,First Class,CUST-286,USA,South Jerry,Colorado,97958,Sugar,East,P-007,SweeTARTS,964,7,261,703
+345,CA-1345,2026-03-05,2026-03-10,Standard Class,CUST-284,USA,North Jessica,Georgia,38667,Other,West,P-013,Lickable Wallpaper,483,12,254,229
+346,CA-1346,2026-02-16,2026-03-11,First Class,CUST-212,USA,Richardsonborough,Vermont,55032,Sugar,South,P-007,SweeTARTS,605,24,109,496
+347,CA-1347,2025-06-11,2025-11-12,Standard Class,CUST-007,USA,South Paulside,Minnesota,69676,Other,East,P-014,Wonka Gum,617,10,564,53
+348,CA-1348,2026-01-12,2025-06-27,Standard Class,CUST-235,USA,North Sarahton,New Mexico,63893,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,594,30,239,355
+349,CA-1349,2026-03-13,2026-02-05,First Class,CUST-129,USA,Shannonbury,South Carolina,68476,Sugar,West,P-012,Hair Toffee,134,22,75,59
+350,CA-1350,2025-11-19,2025-04-30,First Class,CUST-281,USA,Donnabury,New Jersey,24535,Other,South,P-015,Kazookles,615,15,328,287
+351,CA-1351,2025-07-15,2025-12-19,Standard Class,CUST-296,USA,Lake Trevor,Delaware,23501,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,565,11,283,282
+352,CA-1352,2025-07-30,2025-12-05,Second Class,CUST-036,USA,West Kimberlytown,Louisiana,43949,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,705,18,543,162
+353,CA-1353,2026-03-18,2025-08-18,Standard Class,CUST-213,USA,Johnshire,Missouri,92852,Other,South,P-015,Kazookles,129,26,26,103
+354,CA-1354,2025-08-16,2026-03-24,Standard Class,CUST-293,USA,North Davidview,Alaska,18745,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,173,25,99,74
+355,CA-1355,2025-05-27,2025-11-25,First Class,CUST-283,USA,Laceyport,Ohio,41885,Other,Central,P-010,Fizzy Lifting Drinks,301,12,174,127
+356,CA-1356,2025-12-13,2025-12-09,First Class,CUST-041,USA,East Christopherport,Louisiana,73057,Other,West,P-010,Fizzy Lifting Drinks,853,17,659,194
+357,CA-1357,2026-02-14,2025-07-21,First Class,CUST-254,USA,Williamschester,Vermont,38328,Sugar,Central,P-009,Fun Dip,764,25,280,484
+358,CA-1358,2025-12-16,2025-10-10,First Class,CUST-165,USA,North Jeffreytown,North Dakota,74564,Sugar,West,P-006,Laffy Taffy,168,19,48,120
+359,CA-1359,2025-09-26,2025-10-11,First Class,CUST-280,USA,Rhodestown,Ohio,88054,Other,West,P-015,Kazookles,125,14,73,52
+360,CA-1360,2025-04-08,2025-12-26,Second Class,CUST-253,USA,Garciabury,Indiana,86746,Other,West,P-013,Lickable Wallpaper,767,5,38,729
+361,CA-1361,2025-10-16,2025-07-21,Standard Class,CUST-082,USA,Brandonhaven,Alabama,03224,Other,West,P-010,Fizzy Lifting Drinks,472,26,20,452
+362,CA-1362,2026-01-22,2025-06-28,Standard Class,CUST-140,USA,Mitchellfurt,Oregon,29418,Sugar,Central,P-008,Nerds,561,15,86,475
+363,CA-1363,2025-06-20,2025-11-18,First Class,CUST-252,USA,Morrisonchester,Colorado,64866,Sugar,South,P-012,Hair Toffee,781,12,163,618
+364,CA-1364,2025-10-27,2025-06-11,Second Class,CUST-230,USA,South Edward,South Carolina,00962,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,973,14,524,449
+365,CA-1365,2025-11-03,2025-09-24,Standard Class,CUST-111,USA,Atkinsonborough,North Dakota,36407,Other,South,P-014,Wonka Gum,244,20,101,143
+366,CA-1366,2025-05-29,2025-11-04,First Class,CUST-043,USA,Melissaville,Maryland,55342,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,365,9,250,115
+367,CA-1367,2026-02-06,2026-03-15,First Class,CUST-290,USA,Kyleside,Arkansas,57927,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,143,23,67,76
+368,CA-1368,2026-03-25,2026-03-25,Standard Class,CUST-204,USA,Antoniomouth,Alabama,04005,Sugar,South,P-012,Hair Toffee,725,30,240,485
+369,CA-1369,2025-08-20,2025-12-22,Standard Class,CUST-284,USA,Lake Ryanstad,Washington,21991,Sugar,West,P-012,Hair Toffee,263,15,61,202
+370,CA-1370,2025-12-07,2025-04-22,Second Class,CUST-087,USA,Leachport,Tennessee,13580,Sugar,Central,P-011,Everlasting Gobstopper,269,21,63,206
+371,CA-1371,2025-05-25,2025-08-26,First Class,CUST-033,USA,Camposville,New Hampshire,37381,Sugar,East,P-012,Hair Toffee,161,13,28,133
+372,CA-1372,2025-07-15,2025-06-19,Second Class,CUST-152,USA,New Andrea,Tennessee,37542,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,615,5,429,186
+373,CA-1373,2025-05-28,2025-08-26,Second Class,CUST-267,USA,Josephville,Wyoming,56599,Sugar,Central,P-009,Fun Dip,563,15,368,195
+374,CA-1374,2025-10-14,2025-12-16,Second Class,CUST-288,USA,New Richard,Minnesota,70116,Sugar,South,P-009,Fun Dip,336,25,237,99
+375,CA-1375,2025-04-01,2025-10-11,Standard Class,CUST-196,USA,New Robertfurt,Pennsylvania,96252,Sugar,Central,P-007,SweeTARTS,837,5,672,165
+376,CA-1376,2025-09-14,2025-08-02,Standard Class,CUST-183,USA,North Matthewport,Alaska,30373,Sugar,West,P-006,Laffy Taffy,554,11,107,447
+377,CA-1377,2025-04-18,2025-09-09,First Class,CUST-191,USA,Lake Jamesborough,Pennsylvania,51825,Sugar,Central,P-012,Hair Toffee,751,29,422,329
+378,CA-1378,2025-10-01,2026-01-18,Second Class,CUST-216,USA,Port Joseph,Vermont,59543,Other,South,P-014,Wonka Gum,471,18,120,351
+379,CA-1379,2025-10-31,2026-01-03,First Class,CUST-001,USA,West Amandashire,Texas,86036,Other,Central,P-013,Lickable Wallpaper,451,18,357,94
+380,CA-1380,2025-12-17,2025-10-03,Standard Class,CUST-145,USA,Kimberlyton,Utah,38402,Sugar,South,P-007,SweeTARTS,814,25,625,189
+381,CA-1381,2026-02-24,2025-08-19,Standard Class,CUST-290,USA,Lynchmouth,Oregon,11989,Sugar,South,P-006,Laffy Taffy,857,17,587,270
+382,CA-1382,2026-03-09,2025-11-28,First Class,CUST-229,USA,Russellville,Florida,37202,Sugar,West,P-008,Nerds,651,25,94,557
+383,CA-1383,2026-01-10,2026-01-09,Second Class,CUST-081,USA,Dillonville,Maryland,51451,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,276,16,134,142
+384,CA-1384,2025-09-01,2025-07-04,Standard Class,CUST-121,USA,Warnertown,Montana,80213,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,572,26,315,257
+385,CA-1385,2025-11-11,2025-08-11,Second Class,CUST-248,USA,Millshaven,Michigan,77805,Other,West,P-015,Kazookles,264,6,188,76
+386,CA-1386,2026-03-25,2025-07-04,Standard Class,CUST-001,USA,New Lauraside,Arizona,58943,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,622,22,510,112
+387,CA-1387,2025-08-04,2025-07-12,Second Class,CUST-173,USA,Lisastad,Minnesota,58754,Sugar,South,P-006,Laffy Taffy,771,11,65,706
+388,CA-1388,2025-06-17,2025-08-15,First Class,CUST-139,USA,Lake Davidmouth,Minnesota,77188,Sugar,Central,P-012,Hair Toffee,107,12,29,78
+389,CA-1389,2025-10-15,2025-07-02,Standard Class,CUST-185,USA,West Brittany,Wyoming,99664,Sugar,West,P-007,SweeTARTS,688,11,70,618
+390,CA-1390,2025-09-03,2025-10-25,First Class,CUST-113,USA,Harrisberg,Colorado,15402,Sugar,Central,P-011,Everlasting Gobstopper,840,15,523,317
+391,CA-1391,2025-04-03,2025-06-17,First Class,CUST-142,USA,Marybury,Arkansas,29093,Other,East,P-013,Lickable Wallpaper,898,15,331,567
+392,CA-1392,2026-03-02,2025-08-19,First Class,CUST-017,USA,Tinaberg,Alabama,68375,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,118,7,55,63
+393,CA-1393,2025-08-20,2026-02-01,First Class,CUST-224,USA,Johnland,Vermont,78996,Sugar,East,P-008,Nerds,178,7,109,69
+394,CA-1394,2025-05-06,2026-02-28,First Class,CUST-109,USA,Nathanhaven,Louisiana,39157,Other,East,P-014,Wonka Gum,217,25,160,57
+395,CA-1395,2025-07-13,2025-12-10,Standard Class,CUST-152,USA,West Madison,Virginia,16713,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,120,27,34,86
+396,CA-1396,2026-02-16,2025-04-11,First Class,CUST-234,USA,Christinemouth,Kansas,50258,Other,West,P-015,Kazookles,411,21,70,341
+397,CA-1397,2025-06-07,2026-01-05,First Class,CUST-255,USA,Jeffreyberg,New Jersey,59527,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,122,12,49,73
+398,CA-1398,2026-03-16,2025-06-25,Standard Class,CUST-101,USA,Ashleyport,South Dakota,16221,Sugar,South,P-011,Everlasting Gobstopper,403,5,307,96
+399,CA-1399,2025-12-11,2025-10-09,First Class,CUST-087,USA,Alyssabury,Arizona,78929,Other,South,P-015,Kazookles,475,30,208,267
+400,CA-1400,2025-07-26,2025-05-12,First Class,CUST-026,USA,West Kevin,Arizona,61280,Sugar,East,P-009,Fun Dip,594,5,405,189
+401,CA-1401,2025-05-19,2025-07-24,Second Class,CUST-237,USA,Mistyview,Missouri,34525,Sugar,West,P-007,SweeTARTS,899,7,413,486
+402,CA-1402,2025-12-12,2026-03-03,First Class,CUST-025,USA,Port Anne,South Carolina,58335,Sugar,East,P-008,Nerds,780,8,132,648
+403,CA-1403,2025-06-16,2025-09-20,Standard Class,CUST-280,USA,North Tyler,Oregon,58642,Other,Central,P-010,Fizzy Lifting Drinks,848,9,672,176
+404,CA-1404,2025-04-08,2025-11-01,Standard Class,CUST-166,USA,Cookeville,Rhode Island,67804,Other,South,P-015,Kazookles,861,5,546,315
+405,CA-1405,2025-06-09,2025-11-08,Standard Class,CUST-249,USA,Lake Michael,California,61081,Other,East,P-015,Kazookles,507,23,124,383
+406,CA-1406,2025-04-24,2025-07-12,First Class,CUST-200,USA,West Diana,Massachusetts,79238,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,690,22,278,412
+407,CA-1407,2025-04-18,2026-04-01,Standard Class,CUST-107,USA,New Samantha,Maryland,66649,Sugar,East,P-009,Fun Dip,415,24,42,373
+408,CA-1408,2026-03-28,2025-08-27,First Class,CUST-173,USA,Hillchester,Mississippi,14100,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,373,7,314,59
+409,CA-1409,2025-12-12,2026-01-12,First Class,CUST-014,USA,Leeville,New York,60668,Other,Central,P-013,Lickable Wallpaper,957,13,622,335
+410,CA-1410,2025-06-24,2025-05-02,First Class,CUST-246,USA,Crawfordmouth,Nevada,02073,Sugar,Central,P-009,Fun Dip,314,14,58,256
+411,CA-1411,2025-10-21,2026-01-03,First Class,CUST-155,USA,Nicholaschester,Arizona,45850,Sugar,Central,P-006,Laffy Taffy,863,29,477,386
+412,CA-1412,2025-10-16,2025-09-14,Standard Class,CUST-113,USA,Port Mark,Nebraska,53785,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,393,8,24,369
+413,CA-1413,2025-05-30,2025-05-31,Second Class,CUST-137,USA,Vegaland,Nebraska,33430,Other,Central,P-015,Kazookles,181,28,108,73
+414,CA-1414,2025-10-29,2025-07-04,Standard Class,CUST-280,USA,Lauriestad,Vermont,64944,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,376,26,56,320
+415,CA-1415,2025-10-12,2026-02-14,Standard Class,CUST-184,USA,North Scotttown,New Jersey,46430,Sugar,East,P-007,SweeTARTS,461,7,165,296
+416,CA-1416,2026-01-12,2026-01-21,Second Class,CUST-058,USA,South Juan,Connecticut,52690,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,798,19,686,112
+417,CA-1417,2026-01-17,2025-12-02,Second Class,CUST-186,USA,South Nicole,South Dakota,39567,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,774,9,38,736
+418,CA-1418,2025-05-10,2026-02-15,Second Class,CUST-022,USA,Nancyland,Ohio,26513,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,529,18,235,294
+419,CA-1419,2025-05-30,2025-09-27,Standard Class,CUST-170,USA,Bushfort,Washington,25953,Sugar,Central,P-007,SweeTARTS,976,25,607,369
+420,CA-1420,2025-08-11,2025-06-19,Second Class,CUST-171,USA,Port Thomas,Arkansas,68023,Other,West,P-010,Fizzy Lifting Drinks,490,29,302,188
+421,CA-1421,2025-04-13,2026-01-25,First Class,CUST-057,USA,Paulborough,South Carolina,79494,Sugar,South,P-007,SweeTARTS,986,19,110,876
+422,CA-1422,2025-04-14,2025-12-13,Second Class,CUST-078,USA,Michellestad,Arizona,12773,Sugar,Central,P-009,Fun Dip,953,6,589,364
+423,CA-1423,2026-02-24,2026-02-04,Standard Class,CUST-238,USA,Taylorshire,Arkansas,34071,Sugar,Central,P-012,Hair Toffee,766,25,319,447
+424,CA-1424,2026-03-10,2025-09-18,Standard Class,CUST-280,USA,Weaverview,Alabama,95676,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,825,15,468,357
+425,CA-1425,2025-12-16,2025-04-25,First Class,CUST-195,USA,Emilyport,South Dakota,41663,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,108,30,36,72
+426,CA-1426,2025-05-09,2026-03-28,Second Class,CUST-048,USA,Gordontown,Mississippi,36597,Sugar,Central,P-006,Laffy Taffy,906,18,99,807
+427,CA-1427,2025-04-16,2025-09-25,Second Class,CUST-296,USA,East Rachel,West Virginia,63367,Other,Central,P-014,Wonka Gum,976,16,213,763
+428,CA-1428,2025-04-11,2026-02-12,First Class,CUST-159,USA,Lake Carlbury,New Jersey,37845,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,230,21,178,52
+429,CA-1429,2025-05-01,2025-12-07,First Class,CUST-030,USA,North Kayla,Kansas,96943,Sugar,West,P-006,Laffy Taffy,698,26,312,386
+430,CA-1430,2025-05-23,2025-09-07,First Class,CUST-134,USA,Hallchester,New Mexico,46418,Sugar,South,P-007,SweeTARTS,127,21,23,104
+431,CA-1431,2025-05-17,2025-05-01,Standard Class,CUST-113,USA,Maryshire,Pennsylvania,04802,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,175,13,52,123
+432,CA-1432,2025-07-04,2025-07-17,First Class,CUST-075,USA,Hannahmouth,Alaska,42345,Sugar,East,P-009,Fun Dip,208,16,79,129
+433,CA-1433,2026-01-29,2026-01-03,Standard Class,CUST-193,USA,Wardfurt,Wisconsin,44269,Other,Central,P-015,Kazookles,103,11,32,71
+434,CA-1434,2026-01-07,2025-09-25,Standard Class,CUST-020,USA,Carlosstad,Wyoming,10799,Other,East,P-014,Wonka Gum,925,6,651,274
+435,CA-1435,2026-03-09,2025-07-26,First Class,CUST-065,USA,Brookeberg,Florida,44819,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,384,22,65,319
+436,CA-1436,2025-11-05,2026-02-11,First Class,CUST-049,USA,North Leahhaven,Colorado,67387,Other,Central,P-010,Fizzy Lifting Drinks,117,20,42,75
+437,CA-1437,2025-05-17,2026-01-23,Second Class,CUST-035,USA,Port Jason,Maryland,59627,Other,East,P-010,Fizzy Lifting Drinks,487,19,214,273
+438,CA-1438,2026-01-23,2026-03-20,Second Class,CUST-047,USA,South Garyside,Utah,13505,Sugar,South,P-009,Fun Dip,641,19,37,604
+439,CA-1439,2025-05-29,2025-11-07,First Class,CUST-116,USA,Mullenstad,Mississippi,87811,Sugar,South,P-009,Fun Dip,208,23,81,127
+440,CA-1440,2025-09-15,2025-12-10,First Class,CUST-049,USA,Brooksfurt,Texas,21891,Other,Central,P-014,Wonka Gum,883,6,360,523
+441,CA-1441,2025-04-18,2025-12-06,Standard Class,CUST-050,USA,Lake Michaelborough,Oregon,76338,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,623,28,215,408
+442,CA-1442,2026-01-30,2025-12-29,First Class,CUST-115,USA,Baldwinton,Maryland,97588,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,744,17,191,553
+443,CA-1443,2026-02-05,2025-06-28,First Class,CUST-120,USA,Port Gregory,Illinois,41133,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,341,8,60,281
+444,CA-1444,2026-01-29,2026-02-07,Second Class,CUST-128,USA,Tonystad,Florida,76884,Sugar,West,P-006,Laffy Taffy,174,18,115,59
+445,CA-1445,2025-11-05,2025-12-17,Standard Class,CUST-064,USA,Kelleybury,North Carolina,05384,Other,South,P-013,Lickable Wallpaper,252,6,169,83
+446,CA-1446,2025-11-28,2025-08-05,Standard Class,CUST-266,USA,Port Jennifer,Tennessee,84424,Sugar,East,P-009,Fun Dip,760,9,601,159
+447,CA-1447,2026-02-04,2026-01-11,First Class,CUST-280,USA,Marshallside,New Jersey,88879,Sugar,South,P-012,Hair Toffee,343,20,83,260
+448,CA-1448,2026-02-27,2025-08-26,Second Class,CUST-153,USA,Torresville,Alabama,19402,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,749,24,270,479
+449,CA-1449,2025-04-17,2025-04-27,Standard Class,CUST-050,USA,West Davidtown,Indiana,42233,Sugar,West,P-006,Laffy Taffy,102,5,41,61
+450,CA-1450,2025-11-12,2025-10-14,Second Class,CUST-047,USA,Nathanton,Maryland,46437,Other,East,P-015,Kazookles,346,17,198,148
+451,CA-1451,2025-10-03,2025-08-17,First Class,CUST-007,USA,South Jeffrey,Wyoming,43084,Sugar,South,P-006,Laffy Taffy,757,9,383,374
+452,CA-1452,2025-08-12,2025-04-06,Standard Class,CUST-113,USA,Katelynport,New Mexico,25372,Other,East,P-015,Kazookles,797,27,44,753
+453,CA-1453,2025-11-20,2025-07-06,First Class,CUST-055,USA,Leeberg,Iowa,52397,Other,South,P-014,Wonka Gum,478,23,156,322
+454,CA-1454,2025-07-08,2025-12-26,Second Class,CUST-004,USA,Shanefort,Idaho,45581,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,869,20,84,785
+455,CA-1455,2025-11-24,2025-07-05,First Class,CUST-069,USA,West Amyport,Nebraska,37137,Sugar,East,P-012,Hair Toffee,487,19,191,296
+456,CA-1456,2025-08-24,2025-04-27,First Class,CUST-033,USA,New Cynthia,Minnesota,23913,Sugar,South,P-009,Fun Dip,278,12,58,220
+457,CA-1457,2025-05-14,2025-06-06,Second Class,CUST-281,USA,New Leahmouth,Oklahoma,39963,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,586,5,448,138
+458,CA-1458,2025-04-11,2025-04-12,Second Class,CUST-144,USA,Ralphfurt,Utah,82557,Other,East,P-010,Fizzy Lifting Drinks,407,18,216,191
+459,CA-1459,2026-03-06,2025-10-17,Second Class,CUST-240,USA,Hallside,Maine,22836,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,743,5,39,704
+460,CA-1460,2026-01-18,2025-06-06,Standard Class,CUST-055,USA,Rhodesberg,Georgia,84013,Sugar,Central,P-006,Laffy Taffy,733,26,378,355
+461,CA-1461,2026-01-15,2025-09-10,Second Class,CUST-063,USA,Lake Ashleyport,Missouri,74623,Sugar,East,P-011,Everlasting Gobstopper,456,26,213,243
+462,CA-1462,2025-10-22,2025-12-20,Second Class,CUST-162,USA,South Christian,Michigan,95439,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,258,16,32,226
+463,CA-1463,2025-07-09,2026-03-29,First Class,CUST-058,USA,Monicaport,Kansas,40692,Other,Central,P-015,Kazookles,635,27,83,552
+464,CA-1464,2025-11-15,2025-12-10,Standard Class,CUST-157,USA,Cortezhaven,Montana,41341,Other,West,P-013,Lickable Wallpaper,674,25,117,557
+465,CA-1465,2025-09-06,2026-01-29,Standard Class,CUST-268,USA,South Kimberly,Tennessee,73220,Sugar,West,P-009,Fun Dip,399,17,296,103
+466,CA-1466,2025-05-20,2025-05-29,Second Class,CUST-182,USA,Greenmouth,Mississippi,19179,Sugar,South,P-011,Everlasting Gobstopper,266,25,118,148
+467,CA-1467,2026-01-17,2025-08-22,First Class,CUST-183,USA,East Rebeccafort,Nebraska,67475,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,387,25,134,253
+468,CA-1468,2025-07-19,2025-09-14,Standard Class,CUST-135,USA,New Emily,Tennessee,82348,Other,West,P-014,Wonka Gum,711,10,33,678
+469,CA-1469,2025-09-28,2026-02-09,Standard Class,CUST-184,USA,New Jessica,Georgia,65660,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,464,12,82,382
+470,CA-1470,2025-05-12,2025-11-26,First Class,CUST-069,USA,East Rebeccabury,Missouri,55187,Sugar,East,P-011,Everlasting Gobstopper,596,24,179,417
+471,CA-1471,2026-01-08,2025-12-18,Standard Class,CUST-244,USA,North Jennifer,Maryland,88489,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,290,14,23,267
+472,CA-1472,2026-03-15,2026-03-18,Second Class,CUST-047,USA,Millerton,Iowa,63819,Other,Central,P-013,Lickable Wallpaper,886,7,377,509
+473,CA-1473,2025-05-02,2026-01-31,Standard Class,CUST-261,USA,South Seanside,Hawaii,07202,Other,Central,P-014,Wonka Gum,949,27,803,146
+474,CA-1474,2025-09-20,2025-10-14,Second Class,CUST-129,USA,Campbellburgh,Indiana,73853,Other,South,P-015,Kazookles,560,30,213,347
+475,CA-1475,2026-03-11,2025-10-18,Standard Class,CUST-091,USA,Lake William,Nevada,76134,Other,South,P-010,Fizzy Lifting Drinks,417,27,340,77
+476,CA-1476,2025-11-10,2025-06-29,Second Class,CUST-125,USA,West Traci,Nebraska,90331,Other,Central,P-010,Fizzy Lifting Drinks,688,17,451,237
+477,CA-1477,2026-01-17,2025-11-25,Second Class,CUST-271,USA,Beverlybury,Maryland,19470,Other,Central,P-010,Fizzy Lifting Drinks,838,10,572,266
+478,CA-1478,2025-10-04,2025-12-07,Second Class,CUST-089,USA,East Gregoryberg,Oklahoma,60131,Sugar,West,P-006,Laffy Taffy,503,15,280,223
+479,CA-1479,2025-11-08,2025-07-08,First Class,CUST-225,USA,Taylorton,Montana,90069,Other,East,P-010,Fizzy Lifting Drinks,252,25,102,150
+480,CA-1480,2026-01-12,2025-06-19,First Class,CUST-084,USA,Port Donald,California,38632,Sugar,East,P-008,Nerds,123,10,26,97
+481,CA-1481,2025-07-03,2025-11-29,Standard Class,CUST-190,USA,East Hollyville,Montana,82034,Sugar,Central,P-006,Laffy Taffy,316,10,227,89
+482,CA-1482,2025-10-08,2025-04-18,Standard Class,CUST-181,USA,South Johnview,Georgia,71502,Sugar,Central,P-011,Everlasting Gobstopper,584,25,122,462
+483,CA-1483,2025-08-30,2025-09-12,Standard Class,CUST-160,USA,East Brian,Missouri,97787,Other,West,P-013,Lickable Wallpaper,127,9,22,105
+484,CA-1484,2025-05-17,2025-08-28,Second Class,CUST-295,USA,North Henry,Wyoming,88950,Sugar,Central,P-011,Everlasting Gobstopper,691,10,229,462
+485,CA-1485,2025-09-10,2025-10-14,Second Class,CUST-016,USA,New Jonmouth,Nebraska,80496,Other,South,P-015,Kazookles,106,26,42,64
+486,CA-1486,2025-08-12,2026-02-03,Standard Class,CUST-138,USA,South Danielmouth,Oklahoma,99303,Sugar,East,P-007,SweeTARTS,299,28,104,195
+487,CA-1487,2025-09-29,2026-03-21,Second Class,CUST-205,USA,Port Robert,Oregon,70622,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,324,6,176,148
+488,CA-1488,2025-04-12,2026-01-21,Standard Class,CUST-271,USA,Morganport,Oregon,23921,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,511,5,328,183
+489,CA-1489,2025-05-13,2026-03-22,Standard Class,CUST-285,USA,East Kennethland,Michigan,52503,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,706,21,276,430
+490,CA-1490,2025-10-05,2025-09-18,Second Class,CUST-098,USA,Payneside,South Carolina,17166,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,175,6,53,122
+491,CA-1491,2025-09-21,2025-07-06,First Class,CUST-005,USA,East Elizabethfurt,South Carolina,27989,Other,Central,P-010,Fizzy Lifting Drinks,894,20,562,332
+492,CA-1492,2025-06-13,2025-11-04,First Class,CUST-165,USA,Kimberlyville,California,16164,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,649,21,349,300
+493,CA-1493,2025-06-07,2025-07-25,Standard Class,CUST-251,USA,New Anna,New Jersey,21481,Sugar,South,P-006,Laffy Taffy,370,8,130,240
+494,CA-1494,2025-04-14,2026-02-01,Second Class,CUST-275,USA,Jacobland,Tennessee,51149,Sugar,South,P-011,Everlasting Gobstopper,156,16,40,116
+495,CA-1495,2026-04-01,2025-06-26,First Class,CUST-203,USA,South Johnburgh,Indiana,35697,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,564,21,407,157
+496,CA-1496,2025-07-12,2025-08-02,First Class,CUST-175,USA,South Amber,South Carolina,80898,Sugar,West,P-006,Laffy Taffy,157,17,106,51
+497,CA-1497,2025-12-04,2025-05-14,First Class,CUST-207,USA,New Donald,Oregon,23761,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,316,12,203,113
+498,CA-1498,2026-02-10,2025-08-14,First Class,CUST-090,USA,New Chloe,Indiana,93249,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,833,18,186,647
+499,CA-1499,2025-08-07,2026-03-08,First Class,CUST-225,USA,Bensonborough,Illinois,98070,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,172,11,62,110
+500,CA-1500,2025-04-04,2025-07-22,Second Class,CUST-263,USA,Port Anthony,Wisconsin,32271,Sugar,Central,P-009,Fun Dip,400,24,252,148
+501,CA-1501,2025-09-26,2025-05-19,Second Class,CUST-140,USA,Lake Katherine,Maryland,92046,Sugar,Central,P-009,Fun Dip,461,21,373,88
+502,CA-1502,2025-11-01,2025-06-16,Standard Class,CUST-045,USA,Amandaton,Maryland,08410,Other,East,P-013,Lickable Wallpaper,157,19,41,116
+503,CA-1503,2025-10-22,2025-04-26,First Class,CUST-003,USA,Phillipsville,Illinois,19714,Sugar,West,P-011,Everlasting Gobstopper,316,20,104,212
+504,CA-1504,2026-03-07,2025-10-17,Standard Class,CUST-043,USA,South Melaniebury,Oklahoma,51547,Sugar,Central,P-007,SweeTARTS,262,7,152,110
+505,CA-1505,2026-01-16,2025-04-23,Second Class,CUST-207,USA,Adamsbury,Idaho,88981,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,954,17,416,538
+506,CA-1506,2025-12-21,2026-02-28,First Class,CUST-192,USA,North Ryan,Michigan,29687,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,697,13,347,350
+507,CA-1507,2025-11-08,2025-05-16,Second Class,CUST-139,USA,Grahamburgh,New Mexico,19029,Sugar,South,P-006,Laffy Taffy,348,10,285,63
+508,CA-1508,2025-06-04,2025-10-13,First Class,CUST-216,USA,Kathymouth,Pennsylvania,89985,Sugar,West,P-012,Hair Toffee,878,16,723,155
+509,CA-1509,2025-08-24,2025-04-26,Second Class,CUST-266,USA,Lawrenceburgh,Florida,85529,Sugar,East,P-011,Everlasting Gobstopper,647,26,364,283
+510,CA-1510,2025-07-06,2026-03-30,First Class,CUST-056,USA,Barryshire,Maryland,69527,Sugar,South,P-007,SweeTARTS,818,7,581,237
+511,CA-1511,2025-07-15,2025-09-10,Standard Class,CUST-147,USA,South Alexander,Pennsylvania,66269,Sugar,Central,P-012,Hair Toffee,391,23,263,128
+512,CA-1512,2025-04-16,2026-02-16,Second Class,CUST-028,USA,North Abigailton,Iowa,86932,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,240,17,178,62
+513,CA-1513,2025-06-12,2025-11-16,Standard Class,CUST-153,USA,Campbellmouth,New Mexico,41319,Sugar,South,P-008,Nerds,325,20,101,224
+514,CA-1514,2026-01-13,2025-11-26,Standard Class,CUST-233,USA,Reedton,New Hampshire,61181,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,138,9,28,110
+515,CA-1515,2026-02-02,2025-12-06,Second Class,CUST-099,USA,Melissatown,Missouri,74411,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,805,30,670,135
+516,CA-1516,2026-01-28,2025-06-08,Second Class,CUST-092,USA,Lake Troy,Iowa,04055,Other,Central,P-013,Lickable Wallpaper,864,28,117,747
+517,CA-1517,2025-10-08,2026-03-30,Standard Class,CUST-242,USA,Joseton,Arizona,69416,Sugar,South,P-006,Laffy Taffy,610,22,451,159
+518,CA-1518,2025-10-10,2025-08-04,Second Class,CUST-242,USA,Hodgesstad,Pennsylvania,11663,Sugar,West,P-006,Laffy Taffy,299,15,118,181
+519,CA-1519,2025-12-04,2025-09-27,Second Class,CUST-233,USA,Priceshire,Colorado,23400,Other,South,P-014,Wonka Gum,397,24,151,246
+520,CA-1520,2025-08-07,2026-02-22,First Class,CUST-159,USA,Morrisfurt,South Carolina,14690,Sugar,West,P-008,Nerds,711,20,576,135
+521,CA-1521,2025-10-11,2025-05-15,First Class,CUST-182,USA,Clarktown,Kansas,81784,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,847,30,498,349
+522,CA-1522,2025-12-01,2026-01-12,Standard Class,CUST-240,USA,New Clayton,Arizona,67252,Sugar,South,P-007,SweeTARTS,712,23,614,98
+523,CA-1523,2026-04-01,2025-05-17,Second Class,CUST-196,USA,Lake Richard,Oregon,10363,Sugar,Central,P-009,Fun Dip,469,21,394,75
+524,CA-1524,2026-02-22,2025-07-02,Standard Class,CUST-192,USA,Sonyatown,Washington,02660,Other,West,P-014,Wonka Gum,526,13,227,299
+525,CA-1525,2026-03-16,2025-05-17,Standard Class,CUST-165,USA,Montesburgh,Maryland,47904,Sugar,South,P-009,Fun Dip,788,17,552,236
+526,CA-1526,2026-01-04,2025-10-09,Standard Class,CUST-087,USA,Jesseville,Oregon,38445,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,905,24,616,289
+527,CA-1527,2025-06-03,2025-06-13,Second Class,CUST-219,USA,South David,Georgia,03152,Sugar,East,P-006,Laffy Taffy,186,13,65,121
+528,CA-1528,2025-07-06,2026-02-25,First Class,CUST-138,USA,Reyesview,Tennessee,10938,Sugar,Central,P-011,Everlasting Gobstopper,216,23,56,160
+529,CA-1529,2026-03-10,2025-06-08,First Class,CUST-213,USA,Henryland,Louisiana,02490,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,720,12,579,141
+530,CA-1530,2025-09-22,2025-09-13,Standard Class,CUST-212,USA,Brendamouth,South Dakota,12209,Sugar,South,P-009,Fun Dip,688,27,589,99
+531,CA-1531,2026-03-09,2025-05-19,Standard Class,CUST-078,USA,Jameschester,Missouri,63272,Other,West,P-014,Wonka Gum,874,30,354,520
+532,CA-1532,2025-05-23,2025-08-06,First Class,CUST-094,USA,Lake Steventown,Nebraska,35399,Sugar,South,P-006,Laffy Taffy,836,11,636,200
+533,CA-1533,2025-10-13,2026-02-25,Second Class,CUST-144,USA,Tamiborough,Nevada,36624,Sugar,East,P-011,Everlasting Gobstopper,347,30,285,62
+534,CA-1534,2025-10-06,2026-03-31,First Class,CUST-241,USA,Berrytown,Kansas,03317,Other,East,P-013,Lickable Wallpaper,946,18,49,897
+535,CA-1535,2025-08-02,2025-10-19,First Class,CUST-063,USA,Port Jacobburgh,South Dakota,46555,Sugar,East,P-011,Everlasting Gobstopper,825,29,161,664
+536,CA-1536,2025-08-07,2025-07-07,Second Class,CUST-233,USA,Philipmouth,Wisconsin,12692,Sugar,West,P-012,Hair Toffee,197,14,61,136
+537,CA-1537,2025-08-19,2025-07-04,Standard Class,CUST-079,USA,Erinburgh,South Carolina,05686,Sugar,South,P-009,Fun Dip,838,19,231,607
+538,CA-1538,2025-10-17,2025-09-24,Second Class,CUST-027,USA,North Amyville,Arkansas,09393,Other,West,P-014,Wonka Gum,446,5,294,152
+539,CA-1539,2026-03-14,2026-03-14,First Class,CUST-015,USA,Port Timothy,Wyoming,02788,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,300,5,242,58
+540,CA-1540,2025-05-17,2025-06-29,Second Class,CUST-072,USA,Jameston,Kansas,40772,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,670,8,581,89
+541,CA-1541,2025-09-25,2025-08-28,First Class,CUST-095,USA,Barrettville,New Jersey,93070,Sugar,South,P-012,Hair Toffee,222,12,25,197
+542,CA-1542,2025-05-05,2026-01-29,Standard Class,CUST-195,USA,Allisontown,North Carolina,73343,Sugar,West,P-009,Fun Dip,863,9,149,714
+543,CA-1543,2025-07-02,2025-08-22,Standard Class,CUST-106,USA,East Sean,Oklahoma,36992,Sugar,South,P-011,Everlasting Gobstopper,956,15,882,74
+544,CA-1544,2026-03-15,2025-08-30,Second Class,CUST-225,USA,Marthatown,Idaho,99357,Other,West,P-010,Fizzy Lifting Drinks,473,17,22,451
+545,CA-1545,2025-05-13,2026-01-02,First Class,CUST-031,USA,East Stephanie,Ohio,94236,Sugar,South,P-009,Fun Dip,940,8,212,728
+546,CA-1546,2025-11-19,2025-08-09,Standard Class,CUST-276,USA,Walkerfort,Illinois,72227,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,375,28,27,348
+547,CA-1547,2026-03-11,2025-12-21,First Class,CUST-296,USA,Robertoburgh,Florida,58863,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,679,14,78,601
+548,CA-1548,2025-05-21,2025-06-22,Second Class,CUST-250,USA,North Catherine,Nevada,19825,Other,East,P-014,Wonka Gum,400,8,341,59
+549,CA-1549,2026-02-22,2025-10-07,Second Class,CUST-251,USA,Silvaville,South Carolina,16005,Other,East,P-015,Kazookles,566,15,415,151
+550,CA-1550,2026-01-26,2025-11-03,Standard Class,CUST-082,USA,Marshallport,Maine,43316,Other,West,P-013,Lickable Wallpaper,164,24,97,67
+551,CA-1551,2025-11-03,2025-12-10,Second Class,CUST-013,USA,North Michaelshire,Oregon,23076,Other,East,P-014,Wonka Gum,432,18,30,402
+552,CA-1552,2025-06-30,2025-09-01,Standard Class,CUST-216,USA,North Dianaberg,West Virginia,73765,Sugar,Central,P-012,Hair Toffee,212,8,124,88
+553,CA-1553,2025-08-28,2026-02-01,Standard Class,CUST-300,USA,Codyborough,Delaware,44342,Sugar,South,P-011,Everlasting Gobstopper,529,12,431,98
+554,CA-1554,2026-03-30,2025-08-11,Standard Class,CUST-059,USA,Clinemouth,Wisconsin,61495,Other,East,P-014,Wonka Gum,943,5,110,833
+555,CA-1555,2026-03-24,2026-01-11,Second Class,CUST-043,USA,North Jeffside,Pennsylvania,91169,Other,East,P-015,Kazookles,324,23,198,126
+556,CA-1556,2026-03-09,2025-11-29,Standard Class,CUST-133,USA,West Michael,Alaska,69567,Sugar,West,P-006,Laffy Taffy,542,15,436,106
+557,CA-1557,2026-01-29,2025-05-19,First Class,CUST-201,USA,Cummingsfort,West Virginia,69478,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,612,15,71,541
+558,CA-1558,2025-05-27,2025-04-29,Standard Class,CUST-219,USA,Duranberg,Ohio,19897,Other,West,P-014,Wonka Gum,802,7,478,324
+559,CA-1559,2025-07-05,2025-12-10,Second Class,CUST-122,USA,West Tonyland,Vermont,98005,Other,West,P-013,Lickable Wallpaper,945,15,309,636
+560,CA-1560,2025-12-07,2026-03-11,Second Class,CUST-149,USA,South Deniseshire,Indiana,99537,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,306,20,137,169
+561,CA-1561,2026-03-25,2026-03-03,Standard Class,CUST-020,USA,Robertburgh,Kentucky,57153,Other,East,P-015,Kazookles,112,11,52,60
+562,CA-1562,2025-08-06,2025-08-01,Standard Class,CUST-100,USA,Bakerchester,North Dakota,25572,Other,Central,P-010,Fizzy Lifting Drinks,155,28,29,126
+563,CA-1563,2026-03-15,2026-02-27,Second Class,CUST-008,USA,North Lauren,Nebraska,74843,Sugar,South,P-008,Nerds,775,11,337,438
+564,CA-1564,2025-04-12,2025-06-28,First Class,CUST-090,USA,New Rebeccafort,Kentucky,95415,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,809,28,724,85
+565,CA-1565,2025-04-07,2026-03-08,Second Class,CUST-126,USA,Jordanchester,Arizona,67357,Other,South,P-014,Wonka Gum,662,21,228,434
+566,CA-1566,2026-03-29,2025-07-21,First Class,CUST-287,USA,South Maryview,Utah,53973,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,157,11,45,112
+567,CA-1567,2025-11-05,2025-12-06,Second Class,CUST-198,USA,Morenoberg,Rhode Island,26098,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,947,26,104,843
+568,CA-1568,2025-09-18,2025-09-21,First Class,CUST-292,USA,New Michellebury,Oregon,24429,Sugar,Central,P-008,Nerds,804,22,698,106
+569,CA-1569,2026-02-16,2026-01-04,First Class,CUST-232,USA,North Brittneymouth,Nebraska,23662,Sugar,West,P-006,Laffy Taffy,761,30,557,204
+570,CA-1570,2025-09-03,2025-07-08,Standard Class,CUST-098,USA,Port Edwardborough,Vermont,38177,Sugar,West,P-011,Everlasting Gobstopper,270,21,122,148
+571,CA-1571,2025-11-06,2026-04-01,Second Class,CUST-067,USA,South Darrell,California,76845,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,883,16,732,151
+572,CA-1572,2026-02-13,2026-02-17,First Class,CUST-187,USA,Kristinville,Alaska,02625,Sugar,East,P-009,Fun Dip,825,19,425,400
+573,CA-1573,2026-02-11,2026-03-12,Second Class,CUST-295,USA,West Linda,Tennessee,98874,Sugar,East,P-006,Laffy Taffy,597,24,204,393
+574,CA-1574,2025-07-18,2026-02-05,Standard Class,CUST-218,USA,Thomaschester,Louisiana,70379,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,357,9,146,211
+575,CA-1575,2026-03-16,2025-08-06,First Class,CUST-205,USA,Port Markhaven,South Carolina,48006,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,592,10,325,267
+576,CA-1576,2025-10-24,2025-09-29,Standard Class,CUST-116,USA,Dawnport,Florida,96400,Other,East,P-014,Wonka Gum,988,27,254,734
+577,CA-1577,2026-02-06,2026-03-09,First Class,CUST-264,USA,Buckshire,Washington,54092,Other,Central,P-015,Kazookles,730,21,407,323
+578,CA-1578,2025-12-02,2025-09-16,First Class,CUST-112,USA,East Ronaldberg,Alabama,58469,Sugar,Central,P-006,Laffy Taffy,347,11,284,63
+579,CA-1579,2025-05-07,2025-04-07,Second Class,CUST-089,USA,North Michael,Oregon,81176,Sugar,West,P-006,Laffy Taffy,138,22,48,90
+580,CA-1580,2025-04-08,2025-12-12,Second Class,CUST-165,USA,Lake Jenna,Alaska,70721,Other,West,P-015,Kazookles,877,15,568,309
+581,CA-1581,2026-04-01,2025-05-04,Second Class,CUST-174,USA,Floresmouth,Iowa,85995,Sugar,Central,P-006,Laffy Taffy,726,15,385,341
+582,CA-1582,2025-04-02,2025-12-28,Standard Class,CUST-071,USA,Lake Sharon,Massachusetts,22008,Sugar,Central,P-011,Everlasting Gobstopper,206,17,101,105
+583,CA-1583,2025-08-09,2026-02-27,Standard Class,CUST-224,USA,North Lisafurt,Arizona,71605,Other,Central,P-015,Kazookles,801,19,681,120
+584,CA-1584,2025-07-28,2026-02-17,Standard Class,CUST-162,USA,Allisonburgh,North Carolina,81506,Sugar,Central,P-007,SweeTARTS,405,27,20,385
+585,CA-1585,2026-01-13,2025-08-15,Second Class,CUST-078,USA,East Mitchellville,New Mexico,08277,Other,East,P-014,Wonka Gum,905,12,438,467
+586,CA-1586,2026-03-26,2025-12-18,Standard Class,CUST-053,USA,East Lori,Nebraska,18369,Other,East,P-013,Lickable Wallpaper,847,16,176,671
+587,CA-1587,2025-09-20,2025-08-09,Second Class,CUST-066,USA,Lake Melissatown,Washington,26253,Other,Central,P-013,Lickable Wallpaper,350,24,246,104
+588,CA-1588,2026-01-02,2025-09-17,First Class,CUST-059,USA,South Tonya,Nevada,01827,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,227,8,111,116
+589,CA-1589,2025-12-29,2026-03-01,Second Class,CUST-287,USA,Port Hollyshire,Kentucky,15102,Sugar,West,P-008,Nerds,225,16,40,185
+590,CA-1590,2026-02-27,2025-12-13,Second Class,CUST-252,USA,Larryside,Vermont,55307,Sugar,South,P-011,Everlasting Gobstopper,379,6,217,162
+591,CA-1591,2025-08-07,2025-09-12,Second Class,CUST-276,USA,Stevensburgh,Colorado,19570,Sugar,South,P-008,Nerds,537,11,484,53
+592,CA-1592,2025-07-03,2025-07-11,First Class,CUST-076,USA,New Richardfort,Illinois,26924,Other,Central,P-014,Wonka Gum,963,23,487,476
+593,CA-1593,2025-07-08,2025-07-26,First Class,CUST-287,USA,Harrisfort,Mississippi,52451,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,613,29,492,121
+594,CA-1594,2025-05-19,2025-07-15,First Class,CUST-158,USA,New Gregg,Arizona,26550,Sugar,Central,P-011,Everlasting Gobstopper,317,25,158,159
+595,CA-1595,2025-09-01,2025-04-09,Second Class,CUST-081,USA,Hollymouth,Connecticut,41826,Sugar,East,P-008,Nerds,904,15,682,222
+596,CA-1596,2025-10-14,2025-11-09,Second Class,CUST-084,USA,Brianport,Hawaii,32376,Other,East,P-014,Wonka Gum,128,6,36,92
+597,CA-1597,2025-11-14,2026-02-27,Standard Class,CUST-060,USA,Kaylaton,Tennessee,32902,Sugar,West,P-006,Laffy Taffy,621,16,423,198
+598,CA-1598,2025-07-26,2026-02-24,Standard Class,CUST-202,USA,Martinville,Pennsylvania,18883,Other,West,P-014,Wonka Gum,139,19,51,88
+599,CA-1599,2025-09-17,2026-01-31,Second Class,CUST-136,USA,South Williamside,New Hampshire,43668,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,690,30,199,491
+600,CA-1600,2025-07-23,2026-03-21,Standard Class,CUST-166,USA,North Jenniferville,Idaho,08209,Sugar,East,P-008,Nerds,409,16,239,170
+601,CA-1601,2025-04-08,2025-08-31,Standard Class,CUST-051,USA,North Michael,Oregon,36588,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,764,9,551,213
+602,CA-1602,2025-09-21,2026-02-27,Standard Class,CUST-046,USA,Myersport,Indiana,96131,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,794,9,49,745
+603,CA-1603,2025-08-29,2025-09-27,Standard Class,CUST-130,USA,North Jenniferbury,Wyoming,33543,Other,South,P-015,Kazookles,564,17,304,260
+604,CA-1604,2025-05-23,2026-03-19,First Class,CUST-148,USA,Jamesland,Massachusetts,93118,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,716,17,29,687
+605,CA-1605,2025-08-09,2025-06-17,Standard Class,CUST-112,USA,Justinside,Connecticut,59731,Sugar,East,P-006,Laffy Taffy,954,19,896,58
+606,CA-1606,2026-01-23,2026-02-12,Standard Class,CUST-142,USA,Craigfurt,Indiana,82196,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,426,19,214,212
+607,CA-1607,2025-04-09,2025-11-02,First Class,CUST-149,USA,New Josephport,Wisconsin,07321,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,147,6,64,83
+608,CA-1608,2025-08-04,2025-06-09,First Class,CUST-068,USA,North Jennifermouth,Texas,47908,Sugar,Central,P-006,Laffy Taffy,128,17,63,65
+609,CA-1609,2026-03-06,2026-02-01,Second Class,CUST-243,USA,Hannahview,New Jersey,34441,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,146,8,54,92
+610,CA-1610,2025-08-13,2025-06-30,Standard Class,CUST-091,USA,Lake Gerald,Kentucky,17639,Sugar,Central,P-008,Nerds,966,17,525,441
+611,CA-1611,2025-06-24,2025-04-23,Second Class,CUST-211,USA,West Christopherhaven,Minnesota,77328,Sugar,East,P-006,Laffy Taffy,484,16,341,143
+612,CA-1612,2026-02-03,2025-04-13,First Class,CUST-178,USA,North Michaelland,Tennessee,43790,Sugar,East,P-007,SweeTARTS,707,5,499,208
+613,CA-1613,2026-03-06,2025-10-20,First Class,CUST-270,USA,Lindashire,Hawaii,29020,Other,South,P-013,Lickable Wallpaper,756,14,272,484
+614,CA-1614,2025-04-01,2026-02-07,Second Class,CUST-125,USA,West Rachelport,Iowa,28076,Other,Central,P-013,Lickable Wallpaper,805,20,370,435
+615,CA-1615,2026-02-04,2026-01-24,Standard Class,CUST-066,USA,Port Markburgh,New Jersey,25814,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,935,11,276,659
+616,CA-1616,2025-09-09,2025-10-12,Second Class,CUST-038,USA,Port Philip,Michigan,23640,Sugar,South,P-011,Everlasting Gobstopper,295,13,31,264
+617,CA-1617,2025-06-24,2025-07-11,First Class,CUST-144,USA,Schaefershire,Georgia,13468,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,421,7,65,356
+618,CA-1618,2025-09-09,2026-02-27,Second Class,CUST-259,USA,Lake Jasminetown,California,43031,Sugar,East,P-008,Nerds,207,13,47,160
+619,CA-1619,2025-07-03,2025-04-12,Standard Class,CUST-042,USA,Andrewview,Oklahoma,08144,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,442,8,387,55
+620,CA-1620,2026-03-25,2026-01-31,Second Class,CUST-298,USA,Justinland,Alaska,30161,Other,Central,P-010,Fizzy Lifting Drinks,151,21,80,71
+621,CA-1621,2025-06-14,2025-07-17,Second Class,CUST-275,USA,Weberborough,Virginia,51939,Sugar,East,P-012,Hair Toffee,908,12,713,195
+622,CA-1622,2025-04-21,2025-10-29,Standard Class,CUST-294,USA,Millertown,Maine,44031,Other,South,P-013,Lickable Wallpaper,780,6,223,557
+623,CA-1623,2026-01-25,2025-07-30,Second Class,CUST-211,USA,Mistyland,Massachusetts,99845,Other,West,P-013,Lickable Wallpaper,933,23,287,646
+624,CA-1624,2025-10-18,2025-08-30,Standard Class,CUST-151,USA,Willishaven,West Virginia,41236,Sugar,South,P-006,Laffy Taffy,640,11,188,452
+625,CA-1625,2025-08-08,2025-10-06,Second Class,CUST-073,USA,Jessicaburgh,Vermont,75784,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,729,5,181,548
+626,CA-1626,2026-03-18,2025-05-29,First Class,CUST-003,USA,West Christianport,Alaska,73257,Sugar,South,P-007,SweeTARTS,875,27,709,166
+627,CA-1627,2025-12-13,2026-01-05,Standard Class,CUST-023,USA,Alexanderville,Wisconsin,21638,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,647,5,534,113
+628,CA-1628,2026-01-06,2025-07-16,Second Class,CUST-047,USA,Smallport,Delaware,68538,Sugar,Central,P-006,Laffy Taffy,943,8,673,270
+629,CA-1629,2025-10-16,2026-01-29,First Class,CUST-273,USA,Jacobburgh,Texas,98812,Sugar,South,P-008,Nerds,973,6,355,618
+630,CA-1630,2025-04-21,2025-04-15,Standard Class,CUST-033,USA,Jillianfort,Hawaii,51590,Sugar,East,P-008,Nerds,778,26,453,325
+631,CA-1631,2026-02-24,2025-10-08,Standard Class,CUST-214,USA,Lake Kaitlin,Alaska,31903,Sugar,South,P-011,Everlasting Gobstopper,643,12,140,503
+632,CA-1632,2026-01-26,2026-03-04,Standard Class,CUST-024,USA,Pattonfurt,Iowa,46199,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,301,28,234,67
+633,CA-1633,2026-01-13,2025-12-30,Standard Class,CUST-271,USA,East Steven,Tennessee,50502,Sugar,Central,P-011,Everlasting Gobstopper,113,10,45,68
+634,CA-1634,2026-01-01,2025-12-01,Standard Class,CUST-162,USA,Lake Josephbury,Texas,35338,Other,Central,P-015,Kazookles,780,8,552,228
+635,CA-1635,2026-01-29,2025-04-23,Second Class,CUST-125,USA,North Victoria,Oklahoma,46547,Sugar,West,P-012,Hair Toffee,551,10,203,348
+636,CA-1636,2025-06-15,2025-06-13,Second Class,CUST-151,USA,Shermanberg,Connecticut,59797,Other,South,P-010,Fizzy Lifting Drinks,416,24,65,351
+637,CA-1637,2026-03-07,2026-01-27,Second Class,CUST-141,USA,North Dianachester,Maine,07498,Other,South,P-010,Fizzy Lifting Drinks,665,18,399,266
+638,CA-1638,2025-05-29,2025-09-26,Standard Class,CUST-261,USA,Philipburgh,Connecticut,99672,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,523,11,64,459
+639,CA-1639,2026-03-08,2025-07-28,Standard Class,CUST-275,USA,Warnerside,Rhode Island,44348,Sugar,East,P-011,Everlasting Gobstopper,188,16,35,153
+640,CA-1640,2025-10-20,2025-09-27,Second Class,CUST-201,USA,East Allison,Idaho,62761,Other,Central,P-015,Kazookles,873,15,229,644
+641,CA-1641,2026-02-09,2025-07-27,First Class,CUST-008,USA,Mooretown,South Dakota,39053,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,635,23,90,545
+642,CA-1642,2025-09-01,2026-02-21,First Class,CUST-157,USA,Lake Taylorchester,Indiana,38888,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,576,18,388,188
+643,CA-1643,2026-02-11,2025-08-17,First Class,CUST-232,USA,East Gregory,Indiana,11120,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,861,6,313,548
+644,CA-1644,2025-06-11,2025-11-28,Standard Class,CUST-062,USA,Evansbury,Iowa,20357,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,217,17,61,156
+645,CA-1645,2026-01-21,2025-06-30,Standard Class,CUST-120,USA,Cruztown,Michigan,31292,Other,East,P-010,Fizzy Lifting Drinks,738,6,171,567
+646,CA-1646,2026-02-01,2025-07-24,Standard Class,CUST-283,USA,Brettberg,California,54947,Other,East,P-013,Lickable Wallpaper,806,23,211,595
+647,CA-1647,2025-10-16,2025-06-19,Standard Class,CUST-087,USA,South Lauriemouth,Georgia,63256,Sugar,East,P-007,SweeTARTS,802,14,196,606
+648,CA-1648,2025-07-06,2025-09-10,Standard Class,CUST-074,USA,New Jonathan,Vermont,97533,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,647,28,319,328
+649,CA-1649,2025-12-21,2026-03-28,Second Class,CUST-240,USA,East Jill,Virginia,02048,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,475,24,421,54
+650,CA-1650,2025-04-24,2025-08-27,Second Class,CUST-292,USA,East Rebecca,West Virginia,74541,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,757,30,385,372
+651,CA-1651,2025-12-31,2026-03-04,Standard Class,CUST-021,USA,Jamestown,Louisiana,87095,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,944,22,190,754
+652,CA-1652,2026-01-26,2025-07-21,Second Class,CUST-273,USA,North Wesley,Arizona,10481,Other,East,P-015,Kazookles,375,24,211,164
+653,CA-1653,2025-12-08,2025-08-24,Second Class,CUST-272,USA,Longmouth,Mississippi,23808,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,434,29,233,201
+654,CA-1654,2026-02-14,2025-06-13,First Class,CUST-129,USA,Anneshire,Oregon,26361,Other,Central,P-013,Lickable Wallpaper,168,16,94,74
+655,CA-1655,2025-10-22,2025-08-25,Second Class,CUST-147,USA,Wolfshire,Texas,23534,Other,West,P-010,Fizzy Lifting Drinks,772,17,503,269
+656,CA-1656,2026-02-25,2025-12-17,First Class,CUST-272,USA,North Shawnchester,Wyoming,62470,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,473,29,266,207
+657,CA-1657,2025-11-10,2025-06-11,Standard Class,CUST-166,USA,New Sandrastad,New York,06382,Sugar,Central,P-011,Everlasting Gobstopper,177,21,120,57
+658,CA-1658,2025-06-07,2025-06-10,Standard Class,CUST-089,USA,New Chelseaton,Georgia,36555,Sugar,Central,P-007,SweeTARTS,825,11,64,761
+659,CA-1659,2025-07-07,2025-07-27,Standard Class,CUST-119,USA,Crawfordmouth,Georgia,80448,Sugar,East,P-012,Hair Toffee,695,23,511,184
+660,CA-1660,2025-09-28,2026-01-11,First Class,CUST-207,USA,East Joseph,New Mexico,97744,Sugar,East,P-008,Nerds,974,28,484,490
+661,CA-1661,2025-04-23,2025-10-29,Second Class,CUST-246,USA,West Marcshire,South Carolina,62044,Sugar,West,P-007,SweeTARTS,166,29,24,142
+662,CA-1662,2025-05-26,2025-08-30,First Class,CUST-282,USA,East Benjamin,Colorado,27911,Sugar,Central,P-011,Everlasting Gobstopper,723,9,221,502
+663,CA-1663,2025-08-06,2025-05-20,First Class,CUST-049,USA,Hobbsmouth,Louisiana,79887,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,508,29,263,245
+664,CA-1664,2025-04-20,2026-02-08,Standard Class,CUST-042,USA,North Daniel,North Dakota,43195,Sugar,South,P-008,Nerds,777,14,308,469
+665,CA-1665,2025-12-11,2026-02-18,First Class,CUST-299,USA,Port Barbara,Oregon,02699,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,506,13,341,165
+666,CA-1666,2025-05-20,2025-08-09,Standard Class,CUST-007,USA,Douglasmouth,Arizona,49390,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,600,28,274,326
+667,CA-1667,2025-07-21,2025-07-27,First Class,CUST-091,USA,East Yolandaland,Mississippi,76679,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,213,26,141,72
+668,CA-1668,2026-02-20,2025-10-20,Second Class,CUST-277,USA,Johnnychester,Colorado,17362,Other,Central,P-010,Fizzy Lifting Drinks,278,10,207,71
+669,CA-1669,2026-01-14,2025-04-05,Second Class,CUST-034,USA,East Thomas,Kentucky,02499,Sugar,East,P-006,Laffy Taffy,936,12,369,567
+670,CA-1670,2026-03-09,2025-10-20,Second Class,CUST-011,USA,Jessicaview,South Dakota,33686,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,209,14,124,85
+671,CA-1671,2025-04-14,2026-03-07,Second Class,CUST-130,USA,Nicoleland,Ohio,90962,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,612,10,527,85
+672,CA-1672,2026-02-24,2025-06-30,Standard Class,CUST-122,USA,South Jessicaborough,Nevada,49888,Sugar,West,P-007,SweeTARTS,218,7,102,116
+673,CA-1673,2026-01-23,2025-08-29,First Class,CUST-179,USA,Rickyland,Utah,18977,Sugar,West,P-007,SweeTARTS,915,23,145,770
+674,CA-1674,2025-09-15,2025-04-13,Second Class,CUST-138,USA,Ramirezside,Washington,08451,Sugar,South,P-012,Hair Toffee,901,5,67,834
+675,CA-1675,2026-03-05,2025-04-09,Second Class,CUST-155,USA,Grimesbury,Washington,27690,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,394,9,315,79
+676,CA-1676,2025-05-23,2026-02-06,First Class,CUST-029,USA,Daleburgh,Minnesota,83223,Other,Central,P-010,Fizzy Lifting Drinks,284,17,177,107
+677,CA-1677,2025-04-03,2025-06-17,First Class,CUST-133,USA,West Amy,Indiana,82563,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,574,27,156,418
+678,CA-1678,2025-12-11,2025-08-16,First Class,CUST-300,USA,Dunnchester,Arizona,57446,Sugar,West,P-009,Fun Dip,461,13,153,308
+679,CA-1679,2025-12-15,2025-10-05,First Class,CUST-287,USA,Petershire,Indiana,49389,Sugar,East,P-008,Nerds,572,30,495,77
+680,CA-1680,2025-08-11,2025-07-04,First Class,CUST-239,USA,Kennethtown,New Jersey,05301,Sugar,West,P-008,Nerds,729,17,70,659
+681,CA-1681,2026-02-28,2026-03-29,Standard Class,CUST-114,USA,East Andreaport,Nevada,14004,Sugar,East,P-011,Everlasting Gobstopper,599,17,271,328
+682,CA-1682,2025-08-18,2025-12-06,Standard Class,CUST-129,USA,Adamsfort,Hawaii,25174,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,694,21,238,456
+683,CA-1683,2025-11-23,2025-10-20,Second Class,CUST-059,USA,South Ambermouth,Connecticut,60186,Other,Central,P-013,Lickable Wallpaper,422,11,285,137
+684,CA-1684,2025-11-10,2025-04-05,Standard Class,CUST-049,USA,Lake Lisa,Wisconsin,10736,Sugar,West,P-012,Hair Toffee,679,12,384,295
+685,CA-1685,2026-01-07,2026-02-05,Standard Class,CUST-269,USA,Stouthaven,New Jersey,05810,Sugar,South,P-006,Laffy Taffy,893,24,368,525
+686,CA-1686,2025-05-31,2026-01-23,Standard Class,CUST-278,USA,East Shannonton,Oregon,64664,Other,East,P-014,Wonka Gum,927,17,610,317
+687,CA-1687,2026-03-31,2026-01-26,First Class,CUST-026,USA,Millerhaven,North Dakota,97058,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,961,13,283,678
+688,CA-1688,2025-05-16,2026-03-10,First Class,CUST-012,USA,North Wendy,Illinois,06691,Other,Central,P-014,Wonka Gum,415,15,354,61
+689,CA-1689,2025-10-08,2026-02-10,Standard Class,CUST-043,USA,Lake Samanthaside,North Carolina,21122,Sugar,East,P-007,SweeTARTS,759,8,470,289
+690,CA-1690,2026-02-02,2026-02-09,Second Class,CUST-059,USA,West Kimberly,Missouri,14017,Sugar,East,P-008,Nerds,252,10,188,64
+691,CA-1691,2026-03-21,2025-06-14,Standard Class,CUST-224,USA,West Travisbury,North Carolina,04823,Sugar,East,P-009,Fun Dip,452,22,70,382
+692,CA-1692,2025-10-10,2025-12-26,First Class,CUST-165,USA,North Isaac,South Dakota,85579,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,651,19,413,238
+693,CA-1693,2025-06-02,2025-12-05,Second Class,CUST-036,USA,Richardburgh,New Hampshire,82079,Other,East,P-014,Wonka Gum,832,16,298,534
+694,CA-1694,2025-09-23,2025-12-23,Standard Class,CUST-186,USA,Christianfurt,North Dakota,20319,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,337,21,28,309
+695,CA-1695,2026-04-01,2025-05-31,Second Class,CUST-087,USA,Mayerburgh,New York,24606,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,117,14,24,93
+696,CA-1696,2025-11-27,2025-10-24,Standard Class,CUST-095,USA,Brookston,Arkansas,27371,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,816,6,453,363
+697,CA-1697,2025-07-06,2025-12-29,Standard Class,CUST-039,USA,East Brian,New Mexico,89256,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,674,21,225,449
+698,CA-1698,2025-10-05,2025-05-08,First Class,CUST-252,USA,Lake Jamesmouth,Delaware,20807,Sugar,West,P-008,Nerds,498,27,336,162
+699,CA-1699,2025-11-24,2025-04-24,Second Class,CUST-276,USA,Port Jamesport,Montana,14099,Sugar,South,P-011,Everlasting Gobstopper,251,19,49,202
+700,CA-1700,2025-08-05,2026-03-09,Second Class,CUST-226,USA,Walkerberg,Colorado,23956,Sugar,West,P-011,Everlasting Gobstopper,419,16,133,286
+701,CA-1701,2025-12-19,2026-01-29,Second Class,CUST-299,USA,West Erinmouth,Utah,46652,Sugar,South,P-011,Everlasting Gobstopper,160,23,62,98
+702,CA-1702,2026-03-24,2025-06-24,First Class,CUST-049,USA,South Ricardo,Louisiana,24570,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,287,7,131,156
+703,CA-1703,2025-05-23,2025-09-15,Second Class,CUST-019,USA,South Kellybury,New Jersey,27257,Sugar,West,P-007,SweeTARTS,483,19,282,201
+704,CA-1704,2026-03-16,2025-04-04,First Class,CUST-190,USA,East Taylor,Arizona,68590,Other,East,P-010,Fizzy Lifting Drinks,108,27,33,75
+705,CA-1705,2025-09-23,2025-12-19,First Class,CUST-194,USA,Sheilatown,Minnesota,49484,Sugar,East,P-009,Fun Dip,769,18,461,308
+706,CA-1706,2025-09-05,2025-12-11,Standard Class,CUST-174,USA,South Lance,New Mexico,65252,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,392,12,98,294
+707,CA-1707,2026-03-19,2025-11-07,First Class,CUST-164,USA,Karenton,Pennsylvania,21197,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,922,11,281,641
+708,CA-1708,2025-10-23,2025-04-14,Standard Class,CUST-127,USA,West Robertborough,Massachusetts,25907,Sugar,Central,P-012,Hair Toffee,304,9,154,150
+709,CA-1709,2026-01-26,2025-08-31,Second Class,CUST-136,USA,New Tamaraborough,Oregon,74009,Sugar,South,P-012,Hair Toffee,267,24,141,126
+710,CA-1710,2025-07-09,2025-07-02,Standard Class,CUST-078,USA,Douglasville,Virginia,34520,Other,West,P-014,Wonka Gum,640,28,214,426
+711,CA-1711,2025-10-29,2025-04-27,Second Class,CUST-023,USA,West Davidchester,Connecticut,51531,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,678,29,242,436
+712,CA-1712,2026-01-11,2026-03-19,Second Class,CUST-296,USA,Bergerfort,New Mexico,21040,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,953,25,857,96
+713,CA-1713,2025-10-02,2026-03-21,Standard Class,CUST-216,USA,Charlesstad,Indiana,48072,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,339,27,262,77
+714,CA-1714,2025-06-15,2025-11-18,First Class,CUST-094,USA,Ernestmouth,Massachusetts,25572,Sugar,East,P-011,Everlasting Gobstopper,996,27,738,258
+715,CA-1715,2025-07-22,2025-04-02,First Class,CUST-234,USA,Deborahfurt,Missouri,49060,Other,South,P-013,Lickable Wallpaper,850,9,201,649
+716,CA-1716,2026-03-14,2025-06-15,Standard Class,CUST-281,USA,Anthonyfort,Montana,83734,Other,Central,P-014,Wonka Gum,905,26,709,196
+717,CA-1717,2026-03-29,2025-08-04,Second Class,CUST-209,USA,Tammyview,New Hampshire,52324,Sugar,Central,P-012,Hair Toffee,551,27,61,490
+718,CA-1718,2026-03-07,2026-03-10,Standard Class,CUST-128,USA,South Sarah,Vermont,13781,Other,South,P-014,Wonka Gum,337,9,79,258
+719,CA-1719,2026-03-12,2026-02-27,First Class,CUST-016,USA,Lake Lisa,Colorado,33741,Sugar,West,P-011,Everlasting Gobstopper,885,29,781,104
+720,CA-1720,2025-05-27,2025-09-28,Second Class,CUST-182,USA,Fostertown,West Virginia,72325,Sugar,Central,P-008,Nerds,873,12,141,732
+721,CA-1721,2025-10-27,2026-02-28,Second Class,CUST-038,USA,East Matthewmouth,Maine,71870,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,581,18,250,331
+722,CA-1722,2025-08-18,2026-01-02,Second Class,CUST-169,USA,New Traceytown,Colorado,17910,Other,South,P-010,Fizzy Lifting Drinks,969,5,873,96
+723,CA-1723,2025-04-12,2025-05-04,Standard Class,CUST-026,USA,East Ryan,Arkansas,89084,Sugar,South,P-012,Hair Toffee,985,11,387,598
+724,CA-1724,2025-11-19,2025-06-05,Second Class,CUST-006,USA,North Jennifer,Arizona,52442,Sugar,West,P-011,Everlasting Gobstopper,360,9,44,316
+725,CA-1725,2025-06-01,2025-06-25,First Class,CUST-114,USA,Hartmanchester,Wyoming,21549,Sugar,Central,P-006,Laffy Taffy,658,22,190,468
+726,CA-1726,2026-02-20,2025-05-02,Second Class,CUST-201,USA,East Richardville,Alabama,61047,Other,South,P-010,Fizzy Lifting Drinks,270,10,166,104
+727,CA-1727,2026-02-16,2026-03-30,Second Class,CUST-013,USA,Hectorchester,Nebraska,97795,Sugar,Central,P-012,Hair Toffee,761,23,212,549
+728,CA-1728,2025-11-12,2025-12-26,First Class,CUST-291,USA,Kaylastad,Missouri,99228,Sugar,Central,P-008,Nerds,161,14,22,139
+729,CA-1729,2025-08-18,2026-02-03,First Class,CUST-161,USA,Sherryton,New York,51906,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,974,22,880,94
+730,CA-1730,2025-12-01,2025-07-28,Standard Class,CUST-012,USA,Samanthaville,Alaska,52773,Sugar,Central,P-009,Fun Dip,354,18,253,101
+731,CA-1731,2025-11-28,2025-08-13,First Class,CUST-212,USA,Wardberg,Hawaii,33117,Other,West,P-010,Fizzy Lifting Drinks,264,20,186,78
+732,CA-1732,2025-09-23,2025-06-16,First Class,CUST-155,USA,Edwardston,Vermont,20516,Sugar,East,P-006,Laffy Taffy,778,22,468,310
+733,CA-1733,2025-04-14,2025-04-21,First Class,CUST-295,USA,Brockchester,Iowa,41317,Sugar,West,P-006,Laffy Taffy,588,28,438,150
+734,CA-1734,2025-08-18,2025-10-02,Second Class,CUST-038,USA,New Timothy,Montana,98604,Other,South,P-015,Kazookles,863,22,413,450
+735,CA-1735,2025-12-16,2025-07-28,Second Class,CUST-300,USA,Michaelville,Arizona,15121,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,511,25,255,256
+736,CA-1736,2025-06-20,2025-09-06,First Class,CUST-278,USA,Youngberg,Alaska,09434,Sugar,West,P-012,Hair Toffee,736,23,347,389
+737,CA-1737,2026-01-13,2025-12-19,Standard Class,CUST-168,USA,North Mark,Arizona,27685,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,223,26,36,187
+738,CA-1738,2026-03-26,2026-02-20,Standard Class,CUST-288,USA,Jessicashire,Nebraska,15900,Sugar,South,P-006,Laffy Taffy,245,27,27,218
+739,CA-1739,2025-05-15,2025-05-25,First Class,CUST-289,USA,Toddview,Utah,60085,Other,Central,P-015,Kazookles,447,12,84,363
+740,CA-1740,2025-11-07,2026-01-29,Second Class,CUST-105,USA,Espinozaberg,South Carolina,66502,Other,Central,P-014,Wonka Gum,392,28,47,345
+741,CA-1741,2026-03-27,2025-12-10,Second Class,CUST-109,USA,Port Loribury,Massachusetts,37483,Other,East,P-013,Lickable Wallpaper,323,16,35,288
+742,CA-1742,2025-04-12,2025-09-30,Standard Class,CUST-093,USA,East Brittney,Ohio,71933,Sugar,West,P-006,Laffy Taffy,432,26,292,140
+743,CA-1743,2025-11-20,2026-01-22,Second Class,CUST-287,USA,Schultzton,Oregon,06196,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,947,5,887,60
+744,CA-1744,2025-05-13,2025-04-15,Standard Class,CUST-022,USA,Hayeschester,Pennsylvania,12162,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,581,19,101,480
+745,CA-1745,2026-03-24,2025-10-29,Second Class,CUST-279,USA,Stephenport,Vermont,23587,Other,South,P-013,Lickable Wallpaper,734,7,93,641
+746,CA-1746,2025-06-22,2025-05-05,Second Class,CUST-067,USA,Kellytown,New Mexico,17269,Other,West,P-015,Kazookles,432,13,139,293
+747,CA-1747,2025-06-28,2025-11-25,Standard Class,CUST-249,USA,North Sharonton,California,93120,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,753,22,617,136
+748,CA-1748,2026-03-22,2025-09-23,Standard Class,CUST-007,USA,East Kathleen,Oklahoma,82644,Sugar,East,P-008,Nerds,441,13,224,217
+749,CA-1749,2025-07-25,2025-10-31,Standard Class,CUST-119,USA,South Robertside,Ohio,23498,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,318,24,186,132
+750,CA-1750,2025-08-05,2025-06-17,Standard Class,CUST-073,USA,Pachecoton,Ohio,37696,Other,Central,P-014,Wonka Gum,815,14,591,224
+751,CA-1751,2026-03-21,2025-05-05,Standard Class,CUST-148,USA,Kimberlyside,Florida,77432,Sugar,Central,P-006,Laffy Taffy,601,27,100,501
+752,CA-1752,2026-02-14,2026-04-01,Second Class,CUST-037,USA,Debrafurt,Ohio,63831,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,598,17,522,76
+753,CA-1753,2025-11-13,2025-07-20,Standard Class,CUST-101,USA,North Shelby,New Hampshire,94786,Sugar,East,P-011,Everlasting Gobstopper,746,26,179,567
+754,CA-1754,2025-10-28,2026-01-31,Second Class,CUST-228,USA,South Christophertown,Colorado,02531,Sugar,West,P-007,SweeTARTS,354,7,270,84
+755,CA-1755,2025-09-26,2025-07-05,First Class,CUST-029,USA,South Wendytown,Indiana,40615,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,181,12,108,73
+756,CA-1756,2025-10-21,2025-11-03,First Class,CUST-232,USA,New Mary,Iowa,98172,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,460,21,142,318
+757,CA-1757,2025-12-24,2025-09-09,Second Class,CUST-187,USA,Thompsonborough,Oklahoma,38592,Sugar,East,P-008,Nerds,991,13,78,913
+758,CA-1758,2025-11-14,2025-07-04,First Class,CUST-200,USA,Thompsonfort,Tennessee,01735,Sugar,Central,P-012,Hair Toffee,868,18,590,278
+759,CA-1759,2025-11-22,2025-08-30,First Class,CUST-107,USA,West Jocelynmouth,Wyoming,12267,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,607,14,334,273
+760,CA-1760,2025-04-08,2026-03-31,Standard Class,CUST-193,USA,Mooremouth,Indiana,62503,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,696,25,609,87
+761,CA-1761,2025-09-02,2025-08-24,Standard Class,CUST-073,USA,South Jasonbury,North Carolina,18128,Sugar,East,P-011,Everlasting Gobstopper,363,10,40,323
+762,CA-1762,2025-08-11,2025-12-01,Standard Class,CUST-216,USA,Cruzstad,New Mexico,27013,Other,Central,P-014,Wonka Gum,679,19,254,425
+763,CA-1763,2025-07-12,2026-02-19,Standard Class,CUST-086,USA,Heidiburgh,Florida,88258,Sugar,East,P-007,SweeTARTS,749,23,121,628
+764,CA-1764,2025-04-15,2025-05-04,Second Class,CUST-015,USA,South Amandaton,Hawaii,13109,Sugar,West,P-009,Fun Dip,256,19,113,143
+765,CA-1765,2025-05-01,2025-08-03,Standard Class,CUST-197,USA,Lake Robertburgh,Wisconsin,77792,Sugar,South,P-006,Laffy Taffy,596,28,276,320
+766,CA-1766,2025-12-01,2026-02-23,Standard Class,CUST-149,USA,North Courtney,West Virginia,30620,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,734,30,98,636
+767,CA-1767,2025-09-14,2025-05-08,Second Class,CUST-266,USA,Mcdanielview,Idaho,87306,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,326,6,190,136
+768,CA-1768,2025-11-27,2025-09-06,Standard Class,CUST-138,USA,West Christine,Mississippi,75489,Sugar,East,P-012,Hair Toffee,998,20,781,217
+769,CA-1769,2025-08-10,2025-05-23,First Class,CUST-207,USA,North Kevintown,Oklahoma,24528,Sugar,South,P-011,Everlasting Gobstopper,364,23,257,107
+770,CA-1770,2025-09-09,2026-02-19,Standard Class,CUST-107,USA,Charlesbury,Maine,80797,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,585,16,217,368
+771,CA-1771,2025-11-18,2025-11-11,First Class,CUST-088,USA,Steeleton,Indiana,34156,Other,East,P-010,Fizzy Lifting Drinks,888,18,633,255
+772,CA-1772,2025-12-26,2026-03-02,Standard Class,CUST-130,USA,Robinbury,Nevada,95103,Chocolate,West,P-001,Wonka Bar - Nutty Crunch Surprise,319,21,258,61
+773,CA-1773,2025-10-15,2025-04-18,First Class,CUST-185,USA,Martinstad,Maine,60311,Sugar,Central,P-007,SweeTARTS,812,12,53,759
+774,CA-1774,2025-10-16,2025-04-22,Standard Class,CUST-121,USA,Crystaltown,Alaska,03254,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,449,6,255,194
+775,CA-1775,2025-10-07,2025-04-14,First Class,CUST-065,USA,Williamshaven,Virginia,93443,Sugar,West,P-009,Fun Dip,643,9,93,550
+776,CA-1776,2026-01-26,2025-06-08,Second Class,CUST-120,USA,East Steven,Virginia,78211,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,507,20,345,162
+777,CA-1777,2026-01-06,2025-09-27,Standard Class,CUST-147,USA,East Christineburgh,Pennsylvania,60499,Sugar,East,P-009,Fun Dip,621,30,20,601
+778,CA-1778,2025-10-14,2025-09-13,First Class,CUST-154,USA,Whiteberg,Idaho,39728,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,303,20,238,65
+779,CA-1779,2025-08-02,2025-12-28,Standard Class,CUST-168,USA,North Jacob,New Hampshire,71893,Other,West,P-013,Lickable Wallpaper,129,27,52,77
+780,CA-1780,2026-02-19,2025-09-25,First Class,CUST-253,USA,Burnsburgh,South Carolina,23317,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,598,17,543,55
+781,CA-1781,2025-04-18,2026-01-25,Second Class,CUST-100,USA,North Michael,New Hampshire,40898,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,535,22,249,286
+782,CA-1782,2026-02-15,2025-12-29,Standard Class,CUST-132,USA,New Christopherside,Colorado,65547,Other,Central,P-014,Wonka Gum,652,5,177,475
+783,CA-1783,2025-06-30,2025-05-13,First Class,CUST-046,USA,South Colinchester,Texas,22738,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,644,5,76,568
+784,CA-1784,2025-07-20,2025-05-04,Standard Class,CUST-261,USA,West Brian,Oklahoma,54842,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,453,30,235,218
+785,CA-1785,2026-02-27,2025-09-25,Second Class,CUST-238,USA,Wilsonview,New Mexico,61528,Other,Central,P-010,Fizzy Lifting Drinks,540,16,338,202
+786,CA-1786,2025-07-24,2025-04-26,Second Class,CUST-034,USA,Walterfort,Kentucky,85053,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,332,6,172,160
+787,CA-1787,2026-03-20,2026-01-26,Standard Class,CUST-032,USA,Garrettbury,Oregon,84936,Other,West,P-015,Kazookles,513,9,348,165
+788,CA-1788,2026-03-23,2026-02-13,Standard Class,CUST-213,USA,East Curtishaven,New York,34528,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,577,12,331,246
+789,CA-1789,2025-08-01,2025-06-22,Second Class,CUST-055,USA,Deannastad,New York,76702,Sugar,South,P-009,Fun Dip,543,13,384,159
+790,CA-1790,2025-12-12,2025-11-27,Standard Class,CUST-261,USA,Port Raymond,Connecticut,58394,Sugar,Central,P-006,Laffy Taffy,367,16,78,289
+791,CA-1791,2025-07-23,2025-09-17,Second Class,CUST-101,USA,Paigeborough,California,55141,Other,South,P-015,Kazookles,824,24,404,420
+792,CA-1792,2026-01-29,2025-10-17,Second Class,CUST-143,USA,Thompsonbury,Alabama,87450,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,309,12,93,216
+793,CA-1793,2025-06-14,2025-12-13,Second Class,CUST-231,USA,Campbellfurt,North Carolina,42841,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,327,16,174,153
+794,CA-1794,2025-10-28,2025-10-08,Standard Class,CUST-156,USA,Seanmouth,Oklahoma,73669,Sugar,East,P-012,Hair Toffee,562,30,277,285
+795,CA-1795,2026-02-13,2025-05-06,First Class,CUST-285,USA,Brianport,Ohio,97051,Sugar,East,P-007,SweeTARTS,933,26,460,473
+796,CA-1796,2026-02-06,2025-04-02,Second Class,CUST-133,USA,Lake Kimberlystad,Utah,01719,Sugar,South,P-008,Nerds,823,7,492,331
+797,CA-1797,2026-03-29,2025-10-14,Second Class,CUST-062,USA,New Davidside,Wisconsin,46253,Other,East,P-014,Wonka Gum,198,23,36,162
+798,CA-1798,2025-06-13,2025-08-19,Standard Class,CUST-067,USA,East Katherine,West Virginia,46431,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,381,13,86,295
+799,CA-1799,2025-07-01,2025-10-20,First Class,CUST-066,USA,South Roberttown,North Dakota,27076,Sugar,Central,P-012,Hair Toffee,825,27,371,454
+800,CA-1800,2025-10-30,2025-06-22,First Class,CUST-113,USA,West Allison,Iowa,62958,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,645,16,97,548
+801,CA-1801,2025-09-22,2025-08-04,Standard Class,CUST-273,USA,Williamchester,Illinois,20229,Sugar,Central,P-007,SweeTARTS,314,13,258,56
+802,CA-1802,2025-08-22,2025-06-26,First Class,CUST-295,USA,North Michaelfort,West Virginia,43730,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,299,16,158,141
+803,CA-1803,2025-10-23,2025-11-09,Second Class,CUST-100,USA,South Mark,Louisiana,25370,Sugar,Central,P-006,Laffy Taffy,994,16,25,969
+804,CA-1804,2025-09-23,2025-07-24,Second Class,CUST-152,USA,Rodrigueztown,North Dakota,60717,Sugar,East,P-006,Laffy Taffy,436,28,386,50
+805,CA-1805,2025-10-04,2026-01-10,Standard Class,CUST-270,USA,South Autumnside,Indiana,45377,Sugar,Central,P-009,Fun Dip,891,18,649,242
+806,CA-1806,2026-02-12,2025-08-03,Second Class,CUST-258,USA,North George,Oregon,15331,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,181,24,121,60
+807,CA-1807,2025-05-19,2025-10-03,Standard Class,CUST-276,USA,Emilyland,Arizona,41114,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,383,19,199,184
+808,CA-1808,2025-09-05,2025-12-26,First Class,CUST-068,USA,Ariasberg,Minnesota,25328,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,632,19,218,414
+809,CA-1809,2025-11-16,2026-03-14,Second Class,CUST-066,USA,Lake Kevin,Michigan,41800,Sugar,East,P-012,Hair Toffee,402,15,167,235
+810,CA-1810,2025-07-23,2026-02-11,Second Class,CUST-268,USA,Rachelshire,Arkansas,77641,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,720,17,263,457
+811,CA-1811,2025-08-03,2025-05-02,Standard Class,CUST-290,USA,Port David,West Virginia,98362,Sugar,Central,P-011,Everlasting Gobstopper,371,16,249,122
+812,CA-1812,2025-09-08,2025-10-13,First Class,CUST-290,USA,South Dawnmouth,Missouri,43428,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,113,16,34,79
+813,CA-1813,2025-09-07,2026-01-01,Standard Class,CUST-134,USA,Pricebury,Virginia,27082,Other,South,P-010,Fizzy Lifting Drinks,450,28,251,199
+814,CA-1814,2025-10-21,2025-08-20,Second Class,CUST-232,USA,North Matthew,Illinois,53371,Sugar,Central,P-008,Nerds,672,21,514,158
+815,CA-1815,2026-02-09,2026-02-27,Second Class,CUST-165,USA,Lake Brian,New Jersey,80797,Sugar,Central,P-009,Fun Dip,673,29,421,252
+816,CA-1816,2025-05-04,2025-09-18,Second Class,CUST-171,USA,Lake Trevorshire,South Carolina,80035,Sugar,South,P-006,Laffy Taffy,452,16,295,157
+817,CA-1817,2025-11-26,2025-11-25,Second Class,CUST-272,USA,Lake Cherylmouth,Connecticut,93887,Sugar,Central,P-008,Nerds,638,23,491,147
+818,CA-1818,2025-12-26,2025-11-10,Standard Class,CUST-119,USA,Jeremyfurt,Michigan,49961,Sugar,West,P-006,Laffy Taffy,976,30,348,628
+819,CA-1819,2025-06-21,2025-09-04,Second Class,CUST-010,USA,Williambury,Nebraska,29562,Other,West,P-015,Kazookles,784,23,106,678
+820,CA-1820,2026-02-20,2025-10-13,First Class,CUST-082,USA,Martinport,Arizona,31867,Sugar,West,P-011,Everlasting Gobstopper,701,23,421,280
+821,CA-1821,2025-09-16,2025-06-06,First Class,CUST-030,USA,Markfort,Louisiana,63671,Other,East,P-014,Wonka Gum,562,23,164,398
+822,CA-1822,2025-12-31,2025-07-21,Standard Class,CUST-276,USA,East Jaclyn,Pennsylvania,64529,Sugar,South,P-007,SweeTARTS,389,8,171,218
+823,CA-1823,2026-03-17,2026-01-09,First Class,CUST-288,USA,Chadmouth,New Mexico,04514,Other,West,P-010,Fizzy Lifting Drinks,439,8,203,236
+824,CA-1824,2025-12-18,2025-07-05,Second Class,CUST-136,USA,East Brandon,Massachusetts,44310,Sugar,West,P-006,Laffy Taffy,848,25,721,127
+825,CA-1825,2025-11-06,2025-04-30,First Class,CUST-136,USA,Garciachester,Florida,63128,Sugar,Central,P-007,SweeTARTS,447,27,144,303
+826,CA-1826,2025-06-22,2025-07-23,Standard Class,CUST-240,USA,New Juliebury,Tennessee,98770,Sugar,South,P-012,Hair Toffee,320,16,117,203
+827,CA-1827,2025-10-10,2025-10-05,Second Class,CUST-142,USA,North Jordanstad,Utah,99123,Other,West,P-013,Lickable Wallpaper,274,11,89,185
+828,CA-1828,2026-01-03,2026-02-21,Second Class,CUST-289,USA,Cartermouth,Montana,96162,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,532,5,280,252
+829,CA-1829,2025-08-01,2025-05-07,Second Class,CUST-269,USA,New Isaacbury,Colorado,85885,Other,West,P-010,Fizzy Lifting Drinks,807,27,617,190
+830,CA-1830,2025-09-28,2025-04-21,Second Class,CUST-221,USA,West Wanda,South Dakota,75464,Sugar,East,P-007,SweeTARTS,671,11,569,102
+831,CA-1831,2025-05-10,2025-07-13,First Class,CUST-121,USA,Bensonview,Nebraska,91747,Other,West,P-010,Fizzy Lifting Drinks,685,16,435,250
+832,CA-1832,2026-01-10,2025-07-25,Second Class,CUST-167,USA,Lake Heather,Indiana,44159,Sugar,West,P-011,Everlasting Gobstopper,154,27,57,97
+833,CA-1833,2025-08-30,2025-05-22,First Class,CUST-143,USA,South Michaelborough,Indiana,35076,Other,South,P-015,Kazookles,388,22,50,338
+834,CA-1834,2026-01-31,2025-10-20,Second Class,CUST-002,USA,Medinaton,Delaware,19841,Sugar,West,P-012,Hair Toffee,946,17,678,268
+835,CA-1835,2025-04-24,2025-07-17,Standard Class,CUST-239,USA,New Benjamin,Wisconsin,03368,Sugar,Central,P-006,Laffy Taffy,950,23,33,917
+836,CA-1836,2025-12-10,2025-12-02,First Class,CUST-023,USA,Port Steven,Maine,88182,Other,Central,P-015,Kazookles,372,15,183,189
+837,CA-1837,2025-07-31,2025-04-27,Standard Class,CUST-045,USA,East Nicholasbury,New Jersey,94875,Other,West,P-014,Wonka Gum,478,18,425,53
+838,CA-1838,2026-01-21,2026-02-27,Standard Class,CUST-173,USA,East Austin,Arkansas,27280,Sugar,East,P-007,SweeTARTS,848,30,54,794
+839,CA-1839,2025-07-15,2025-06-17,First Class,CUST-197,USA,North Aaronmouth,Washington,13826,Sugar,Central,P-012,Hair Toffee,570,30,83,487
+840,CA-1840,2025-06-27,2025-06-26,Standard Class,CUST-049,USA,North Johntown,Utah,21371,Sugar,West,P-007,SweeTARTS,802,16,523,279
+841,CA-1841,2025-07-30,2026-01-22,First Class,CUST-093,USA,Leeville,Maryland,28458,Other,Central,P-014,Wonka Gum,599,25,360,239
+842,CA-1842,2025-06-25,2025-12-09,Standard Class,CUST-021,USA,Lake Steven,Hawaii,13330,Other,West,P-010,Fizzy Lifting Drinks,610,28,344,266
+843,CA-1843,2025-11-18,2025-12-17,Standard Class,CUST-028,USA,New Katherine,Louisiana,27145,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,285,22,169,116
+844,CA-1844,2025-10-19,2025-05-05,First Class,CUST-141,USA,New Sarah,Colorado,58945,Other,South,P-015,Kazookles,110,6,20,90
+845,CA-1845,2025-12-21,2025-08-14,First Class,CUST-219,USA,Jenniferstad,California,51808,Sugar,South,P-007,SweeTARTS,856,30,686,170
+846,CA-1846,2025-09-10,2026-03-06,Second Class,CUST-075,USA,Robertview,Iowa,53843,Other,East,P-014,Wonka Gum,647,28,42,605
+847,CA-1847,2025-05-22,2025-05-16,Second Class,CUST-060,USA,Stokesshire,Alaska,74050,Other,South,P-010,Fizzy Lifting Drinks,782,8,528,254
+848,CA-1848,2025-06-17,2025-08-22,First Class,CUST-046,USA,Perezland,Pennsylvania,99125,Sugar,Central,P-007,SweeTARTS,785,7,634,151
+849,CA-1849,2025-08-24,2025-10-11,Second Class,CUST-190,USA,Danielberg,South Dakota,72874,Other,West,P-015,Kazookles,181,23,87,94
+850,CA-1850,2025-06-23,2025-06-02,Standard Class,CUST-121,USA,Morrisbury,Indiana,98320,Sugar,East,P-007,SweeTARTS,422,15,283,139
+851,CA-1851,2026-01-25,2025-10-16,Standard Class,CUST-032,USA,Andrealand,Massachusetts,92195,Other,East,P-013,Lickable Wallpaper,330,28,150,180
+852,CA-1852,2026-03-03,2025-12-05,First Class,CUST-132,USA,West Tyler,Texas,68393,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,497,22,138,359
+853,CA-1853,2025-08-14,2025-06-29,Second Class,CUST-005,USA,West Courtneytown,Kentucky,09557,Other,East,P-013,Lickable Wallpaper,961,18,26,935
+854,CA-1854,2025-06-09,2025-09-24,First Class,CUST-096,USA,Reyesville,Maryland,11698,Sugar,West,P-011,Everlasting Gobstopper,740,25,352,388
+855,CA-1855,2025-09-20,2026-01-13,Standard Class,CUST-198,USA,West Jacquelineberg,Illinois,90739,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,106,24,38,68
+856,CA-1856,2025-11-26,2025-07-15,First Class,CUST-266,USA,South Charles,Maine,75964,Sugar,East,P-006,Laffy Taffy,580,7,311,269
+857,CA-1857,2025-06-09,2026-01-09,Standard Class,CUST-067,USA,Loganchester,Oklahoma,37621,Other,South,P-010,Fizzy Lifting Drinks,880,11,274,606
+858,CA-1858,2025-05-29,2025-11-09,Second Class,CUST-264,USA,West Natalie,Georgia,59478,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,675,19,503,172
+859,CA-1859,2025-04-19,2026-02-26,Second Class,CUST-160,USA,Randallside,Mississippi,65060,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,660,21,226,434
+860,CA-1860,2025-06-12,2025-10-04,Second Class,CUST-020,USA,Angelafort,California,80170,Sugar,South,P-008,Nerds,813,14,451,362
+861,CA-1861,2025-09-11,2026-03-12,Standard Class,CUST-044,USA,Lewisfurt,Iowa,95573,Sugar,Central,P-011,Everlasting Gobstopper,798,25,560,238
+862,CA-1862,2025-08-27,2026-02-05,First Class,CUST-182,USA,Arnoldside,Utah,94468,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,451,22,63,388
+863,CA-1863,2025-11-29,2025-08-30,Second Class,CUST-089,USA,East Elijahberg,Connecticut,02559,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,647,23,50,597
+864,CA-1864,2025-12-31,2025-05-12,Second Class,CUST-070,USA,Farrellfurt,South Carolina,29035,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,528,13,413,115
+865,CA-1865,2026-03-07,2025-05-14,Second Class,CUST-007,USA,Ryanstad,Kentucky,69028,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,320,21,101,219
+866,CA-1866,2025-05-31,2025-09-20,First Class,CUST-055,USA,North Robert,Utah,01641,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,287,10,194,93
+867,CA-1867,2025-10-29,2025-10-15,Standard Class,CUST-003,USA,Floydville,Vermont,65980,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,899,27,500,399
+868,CA-1868,2025-10-24,2025-08-31,Second Class,CUST-123,USA,East Alejandra,Ohio,93791,Sugar,West,P-008,Nerds,943,30,220,723
+869,CA-1869,2025-12-21,2025-07-20,Standard Class,CUST-097,USA,North Keithville,New Mexico,53956,Other,Central,P-015,Kazookles,380,14,146,234
+870,CA-1870,2026-03-11,2025-07-01,Standard Class,CUST-261,USA,West Brenda,Rhode Island,71224,Sugar,South,P-008,Nerds,339,25,211,128
+871,CA-1871,2025-04-05,2025-08-13,Standard Class,CUST-195,USA,Craneberg,New Jersey,19276,Sugar,Central,P-009,Fun Dip,336,22,136,200
+872,CA-1872,2025-10-02,2025-06-10,First Class,CUST-061,USA,Millermouth,Utah,17651,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,292,17,145,147
+873,CA-1873,2026-01-22,2026-03-25,Second Class,CUST-167,USA,South Hannah,Maine,67784,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,633,8,552,81
+874,CA-1874,2025-10-24,2025-08-14,Second Class,CUST-270,USA,East Mollyview,Iowa,83216,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,517,8,277,240
+875,CA-1875,2025-08-01,2025-09-23,Standard Class,CUST-207,USA,Port Jennifer,Montana,32207,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,279,27,26,253
+876,CA-1876,2025-12-22,2025-11-17,Standard Class,CUST-111,USA,Bushbury,Utah,43375,Sugar,West,P-012,Hair Toffee,520,15,175,345
+877,CA-1877,2026-01-16,2025-06-24,Second Class,CUST-209,USA,Lake John,New Mexico,65639,Sugar,Central,P-011,Everlasting Gobstopper,559,5,55,504
+878,CA-1878,2025-07-03,2025-04-30,First Class,CUST-069,USA,Suarezville,Kentucky,06897,Other,West,P-014,Wonka Gum,145,7,33,112
+879,CA-1879,2025-05-24,2025-05-04,Second Class,CUST-117,USA,South Brent,California,52674,Other,South,P-015,Kazookles,658,13,292,366
+880,CA-1880,2025-08-25,2025-12-02,Second Class,CUST-281,USA,Jasonton,Alabama,89459,Chocolate,West,P-005,Wonka Bar - Triple Dazzle Caramel,945,7,29,916
+881,CA-1881,2025-07-25,2025-04-01,First Class,CUST-249,USA,Lake Susan,Kansas,91399,Sugar,East,P-009,Fun Dip,239,10,88,151
+882,CA-1882,2026-03-22,2025-05-01,Second Class,CUST-142,USA,East Stevenport,Illinois,04960,Other,South,P-014,Wonka Gum,767,7,252,515
+883,CA-1883,2025-08-21,2026-03-23,Standard Class,CUST-010,USA,West Gerald,Tennessee,68393,Sugar,Central,P-012,Hair Toffee,572,5,506,66
+884,CA-1884,2025-12-21,2026-01-14,First Class,CUST-150,USA,Port Sharon,Colorado,28896,Other,Central,P-013,Lickable Wallpaper,616,11,506,110
+885,CA-1885,2025-07-10,2025-12-30,Second Class,CUST-205,USA,Port Yvonneberg,Alaska,55435,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,481,7,317,164
+886,CA-1886,2025-11-21,2026-03-07,First Class,CUST-234,USA,Websterton,Maryland,69839,Sugar,West,P-006,Laffy Taffy,205,30,130,75
+887,CA-1887,2025-11-05,2026-01-09,First Class,CUST-045,USA,New Jakeside,Arizona,02426,Sugar,Central,P-006,Laffy Taffy,653,13,180,473
+888,CA-1888,2026-01-23,2025-08-19,First Class,CUST-176,USA,Blackside,Colorado,10528,Other,West,P-014,Wonka Gum,521,16,401,120
+889,CA-1889,2026-03-16,2025-11-21,Second Class,CUST-050,USA,Albertchester,Delaware,75932,Sugar,Central,P-006,Laffy Taffy,865,12,472,393
+890,CA-1890,2025-04-25,2026-02-05,Standard Class,CUST-160,USA,West Kayla,Maryland,19141,Other,Central,P-015,Kazookles,212,11,67,145
+891,CA-1891,2025-04-05,2025-07-14,Second Class,CUST-136,USA,South Travisside,California,85468,Sugar,South,P-006,Laffy Taffy,553,27,329,224
+892,CA-1892,2025-10-14,2025-06-26,Second Class,CUST-108,USA,West Lindastad,Arkansas,51209,Other,East,P-015,Kazookles,865,19,650,215
+893,CA-1893,2025-08-04,2026-01-27,Standard Class,CUST-247,USA,Campbellberg,Wisconsin,86717,Sugar,West,P-008,Nerds,303,23,82,221
+894,CA-1894,2025-11-26,2025-11-11,First Class,CUST-059,USA,Davidhaven,Oregon,97971,Other,East,P-015,Kazookles,602,15,328,274
+895,CA-1895,2026-02-10,2026-01-16,Standard Class,CUST-068,USA,East Maureenhaven,Arizona,49318,Other,South,P-013,Lickable Wallpaper,130,18,35,95
+896,CA-1896,2025-12-30,2026-02-07,Standard Class,CUST-182,USA,Sharonport,Kansas,64449,Sugar,South,P-012,Hair Toffee,716,14,650,66
+897,CA-1897,2025-10-27,2025-06-15,Second Class,CUST-254,USA,Port Mark,North Carolina,84829,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,699,15,431,268
+898,CA-1898,2026-03-02,2025-10-26,First Class,CUST-236,USA,Jenniferview,Oregon,31886,Sugar,Central,P-009,Fun Dip,300,28,197,103
+899,CA-1899,2026-03-30,2025-12-27,Second Class,CUST-145,USA,Peterfurt,Vermont,32766,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,641,24,415,226
+900,CA-1900,2026-03-06,2025-12-14,Standard Class,CUST-233,USA,Schwartzstad,Florida,93564,Sugar,South,P-008,Nerds,226,28,24,202
+901,CA-1901,2025-05-27,2026-03-28,Standard Class,CUST-235,USA,New Jeffreyville,New York,57095,Chocolate,South,P-001,Wonka Bar - Nutty Crunch Surprise,524,12,208,316
+902,CA-1902,2025-04-28,2025-07-15,First Class,CUST-062,USA,Jesusmouth,Florida,13332,Sugar,South,P-011,Everlasting Gobstopper,355,28,123,232
+903,CA-1903,2026-02-20,2025-07-08,Second Class,CUST-079,USA,North Ryanview,Oregon,80369,Sugar,Central,P-011,Everlasting Gobstopper,282,19,55,227
+904,CA-1904,2025-12-22,2026-02-21,Second Class,CUST-090,USA,South Dianatown,Iowa,09548,Chocolate,South,P-005,Wonka Bar - Triple Dazzle Caramel,122,10,32,90
+905,CA-1905,2025-07-24,2025-04-25,Second Class,CUST-189,USA,Christinahaven,New Mexico,68712,Chocolate,Central,P-004,Wonka Bar - Milk Chocolate,440,9,380,60
+906,CA-1906,2026-03-28,2025-08-27,Second Class,CUST-099,USA,Contrerastown,Ohio,87931,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,561,27,175,386
+907,CA-1907,2025-12-04,2025-05-16,Second Class,CUST-295,USA,East Dean,Colorado,82216,Sugar,South,P-011,Everlasting Gobstopper,492,9,276,216
+908,CA-1908,2025-12-10,2026-01-08,First Class,CUST-086,USA,Michaelview,Connecticut,01244,Other,Central,P-010,Fizzy Lifting Drinks,444,6,57,387
+909,CA-1909,2025-07-08,2026-03-26,Second Class,CUST-084,USA,North Nicole,South Carolina,19448,Sugar,South,P-011,Everlasting Gobstopper,561,27,416,145
+910,CA-1910,2025-05-28,2026-01-21,Standard Class,CUST-096,USA,Barnestown,Mississippi,73465,Sugar,West,P-011,Everlasting Gobstopper,966,24,112,854
+911,CA-1911,2025-12-18,2025-10-16,Second Class,CUST-122,USA,Josephburgh,Indiana,60299,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,242,13,40,202
+912,CA-1912,2025-07-13,2025-08-11,First Class,CUST-277,USA,Changstad,Ohio,20329,Other,East,P-013,Lickable Wallpaper,630,8,487,143
+913,CA-1913,2026-03-03,2025-05-27,First Class,CUST-002,USA,Sarahstad,Wyoming,33690,Other,West,P-014,Wonka Gum,938,22,627,311
+914,CA-1914,2026-03-17,2025-05-25,First Class,CUST-054,USA,New Briannaville,Indiana,96202,Sugar,South,P-011,Everlasting Gobstopper,651,18,53,598
+915,CA-1915,2025-10-15,2025-06-09,Second Class,CUST-034,USA,North Kenneth,Wisconsin,60160,Chocolate,West,P-003,Wonka Bar - Scrumdiddlyumptious,766,9,634,132
+916,CA-1916,2026-01-14,2026-03-11,Second Class,CUST-102,USA,East Emily,Arkansas,32071,Sugar,West,P-007,SweeTARTS,590,5,140,450
+917,CA-1917,2026-03-02,2025-12-10,Standard Class,CUST-195,USA,New Richardmouth,Washington,65380,Sugar,Central,P-012,Hair Toffee,950,19,599,351
+918,CA-1918,2025-05-18,2025-12-25,Standard Class,CUST-232,USA,Valeriemouth,Georgia,82266,Sugar,East,P-006,Laffy Taffy,887,6,618,269
+919,CA-1919,2025-09-10,2026-02-12,Standard Class,CUST-142,USA,North Scott,Montana,85984,Sugar,West,P-009,Fun Dip,596,19,405,191
+920,CA-1920,2025-10-03,2026-03-09,Standard Class,CUST-056,USA,Martinezberg,Wisconsin,79597,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,123,14,57,66
+921,CA-1921,2026-03-03,2025-10-11,Second Class,CUST-232,USA,Singhtown,Michigan,35250,Sugar,West,P-011,Everlasting Gobstopper,863,6,703,160
+922,CA-1922,2026-02-10,2025-05-05,Second Class,CUST-193,USA,Hamptonmouth,New York,97930,Sugar,Central,P-011,Everlasting Gobstopper,899,6,428,471
+923,CA-1923,2025-04-20,2025-08-10,Standard Class,CUST-204,USA,West Lance,Wyoming,17056,Sugar,South,P-007,SweeTARTS,367,20,63,304
+924,CA-1924,2026-03-07,2025-09-12,First Class,CUST-094,USA,Burnsfurt,Oklahoma,13725,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,525,7,223,302
+925,CA-1925,2025-10-27,2025-09-09,First Class,CUST-204,USA,Gordonton,North Carolina,92948,Sugar,West,P-012,Hair Toffee,432,23,218,214
+926,CA-1926,2025-07-16,2025-06-29,First Class,CUST-274,USA,South Lindseyport,Utah,85179,Other,Central,P-014,Wonka Gum,989,29,142,847
+927,CA-1927,2025-07-17,2025-12-03,First Class,CUST-046,USA,North Lucasbury,Oklahoma,11214,Other,Central,P-014,Wonka Gum,194,7,55,139
+928,CA-1928,2025-06-08,2026-01-09,Standard Class,CUST-055,USA,Thomasfort,Washington,47296,Sugar,East,P-012,Hair Toffee,873,14,818,55
+929,CA-1929,2025-07-03,2025-09-28,Standard Class,CUST-016,USA,Farmerville,Minnesota,14577,Sugar,East,P-007,SweeTARTS,332,29,181,151
+930,CA-1930,2025-07-09,2025-10-07,First Class,CUST-219,USA,Lake Amandahaven,Arkansas,14396,Chocolate,West,P-004,Wonka Bar - Milk Chocolate,255,23,113,142
+931,CA-1931,2026-01-07,2025-09-25,First Class,CUST-124,USA,Wilsonfort,Massachusetts,64879,Sugar,East,P-011,Everlasting Gobstopper,394,24,258,136
+932,CA-1932,2025-04-15,2025-08-16,First Class,CUST-294,USA,Elliottside,Alaska,01499,Sugar,South,P-008,Nerds,496,13,376,120
+933,CA-1933,2025-07-27,2026-01-20,Standard Class,CUST-084,USA,Port Christine,Oklahoma,19170,Other,Central,P-010,Fizzy Lifting Drinks,154,14,49,105
+934,CA-1934,2025-04-14,2025-08-13,Second Class,CUST-011,USA,Williamsburgh,Kentucky,65570,Other,West,P-013,Lickable Wallpaper,419,23,35,384
+935,CA-1935,2025-07-22,2025-06-13,First Class,CUST-076,USA,West Janet,Maryland,66478,Other,East,P-010,Fizzy Lifting Drinks,757,22,132,625
+936,CA-1936,2026-03-26,2025-10-10,Standard Class,CUST-268,USA,Amberville,Colorado,85862,Other,West,P-015,Kazookles,202,20,35,167
+937,CA-1937,2025-04-10,2025-11-12,Second Class,CUST-017,USA,Ryanfurt,Ohio,71396,Sugar,South,P-009,Fun Dip,228,8,177,51
+938,CA-1938,2026-03-25,2025-04-09,Standard Class,CUST-273,USA,South Patrick,Maine,04170,Sugar,West,P-007,SweeTARTS,650,13,197,453
+939,CA-1939,2025-05-01,2025-10-25,Second Class,CUST-257,USA,Hannastad,Kansas,95971,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,433,12,25,408
+940,CA-1940,2025-09-12,2025-11-11,Standard Class,CUST-157,USA,Tristanbury,New York,07051,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,921,28,186,735
+941,CA-1941,2025-09-16,2025-11-19,Standard Class,CUST-270,USA,Hernandezstad,Ohio,68975,Sugar,South,P-008,Nerds,127,7,32,95
+942,CA-1942,2025-08-03,2025-09-25,Second Class,CUST-281,USA,Port Jacob,Utah,42099,Other,West,P-013,Lickable Wallpaper,693,26,404,289
+943,CA-1943,2026-01-17,2026-03-22,Standard Class,CUST-161,USA,Lake Heathershire,New Jersey,56467,Chocolate,East,P-004,Wonka Bar - Milk Chocolate,523,12,191,332
+944,CA-1944,2025-12-23,2025-11-04,First Class,CUST-126,USA,West Johnshire,Connecticut,07840,Sugar,East,P-007,SweeTARTS,415,11,65,350
+945,CA-1945,2026-02-10,2026-02-21,Second Class,CUST-027,USA,Nicolemouth,Wyoming,24069,Sugar,West,P-009,Fun Dip,418,17,47,371
+946,CA-1946,2026-01-20,2026-02-24,Standard Class,CUST-209,USA,Lake Ronaldburgh,Pennsylvania,17214,Other,South,P-010,Fizzy Lifting Drinks,347,21,134,213
+947,CA-1947,2025-12-10,2025-04-27,Second Class,CUST-247,USA,North Tiffanyborough,Arkansas,24965,Sugar,South,P-007,SweeTARTS,635,14,332,303
+948,CA-1948,2025-10-30,2025-09-02,First Class,CUST-095,USA,Lake Michaelshire,California,36533,Sugar,East,P-009,Fun Dip,186,19,63,123
+949,CA-1949,2025-07-04,2026-03-31,First Class,CUST-023,USA,Vaughntown,Arkansas,55169,Sugar,East,P-012,Hair Toffee,170,22,98,72
+950,CA-1950,2025-04-09,2025-09-05,First Class,CUST-097,USA,Stevensonshire,Nevada,98072,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,437,16,269,168
+951,CA-1951,2026-03-06,2025-09-07,Standard Class,CUST-094,USA,Ashleyport,Tennessee,78203,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,892,5,491,401
+952,CA-1952,2026-01-09,2026-03-24,Second Class,CUST-062,USA,Samanthahaven,Illinois,19090,Other,West,P-014,Wonka Gum,793,20,449,344
+953,CA-1953,2026-02-15,2026-01-02,Second Class,CUST-087,USA,Taylorchester,Massachusetts,86779,Other,West,P-013,Lickable Wallpaper,678,29,292,386
+954,CA-1954,2025-07-16,2025-04-01,First Class,CUST-146,USA,Gabrielfort,West Virginia,72321,Sugar,Central,P-009,Fun Dip,544,11,280,264
+955,CA-1955,2025-12-18,2025-06-29,Standard Class,CUST-292,USA,Leechester,Oregon,87620,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,519,23,83,436
+956,CA-1956,2025-04-24,2025-09-26,Standard Class,CUST-129,USA,Youngton,Maine,52337,Sugar,Central,P-009,Fun Dip,967,26,235,732
+957,CA-1957,2025-06-02,2025-06-14,Second Class,CUST-166,USA,Johnsview,Maine,34210,Chocolate,Central,P-003,Wonka Bar - Scrumdiddlyumptious,405,17,125,280
+958,CA-1958,2025-06-08,2025-12-20,First Class,CUST-241,USA,Clarkeville,Utah,02827,Sugar,West,P-012,Hair Toffee,539,27,448,91
+959,CA-1959,2025-07-28,2025-06-09,Second Class,CUST-294,USA,North Sharon,Arkansas,41264,Sugar,West,P-006,Laffy Taffy,270,16,113,157
+960,CA-1960,2025-08-09,2025-08-16,Second Class,CUST-067,USA,North Samanthaberg,Oklahoma,73326,Sugar,Central,P-011,Everlasting Gobstopper,182,23,117,65
+961,CA-1961,2025-05-12,2025-04-16,First Class,CUST-183,USA,Singhshire,Rhode Island,89612,Chocolate,South,P-002,Wonka Bar - Fudge Mallows,929,8,41,888
+962,CA-1962,2025-09-03,2025-08-16,First Class,CUST-287,USA,Timothyton,New Mexico,06804,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,387,13,91,296
+963,CA-1963,2025-04-19,2025-08-24,Standard Class,CUST-182,USA,Adamsland,Maine,64625,Other,West,P-015,Kazookles,771,30,53,718
+964,CA-1964,2025-11-12,2025-07-23,Second Class,CUST-284,USA,Baileyport,Florida,75639,Other,West,P-015,Kazookles,801,6,465,336
+965,CA-1965,2025-11-12,2025-11-07,Standard Class,CUST-089,USA,Cooperbury,Minnesota,90619,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,324,26,132,192
+966,CA-1966,2026-01-08,2025-05-13,Standard Class,CUST-003,USA,Lake Joseph,Arizona,06130,Other,South,P-010,Fizzy Lifting Drinks,977,17,584,393
+967,CA-1967,2025-12-09,2025-05-27,First Class,CUST-002,USA,Georgeborough,Colorado,54883,Sugar,East,P-006,Laffy Taffy,760,27,357,403
+968,CA-1968,2025-10-16,2026-01-31,Standard Class,CUST-223,USA,Ellistown,South Dakota,57339,Other,Central,P-015,Kazookles,469,25,305,164
+969,CA-1969,2025-07-29,2025-11-20,Standard Class,CUST-163,USA,East Jeremyport,South Dakota,22234,Chocolate,East,P-003,Wonka Bar - Scrumdiddlyumptious,771,16,594,177
+970,CA-1970,2025-10-27,2026-01-28,Standard Class,CUST-202,USA,Brewerland,Idaho,91023,Chocolate,East,P-001,Wonka Bar - Nutty Crunch Surprise,384,13,318,66
+971,CA-1971,2025-12-12,2025-12-06,Second Class,CUST-146,USA,Port Troyburgh,Delaware,74380,Sugar,Central,P-008,Nerds,498,10,61,437
+972,CA-1972,2025-10-04,2025-04-29,Second Class,CUST-114,USA,Hunterfort,Georgia,04071,Sugar,West,P-009,Fun Dip,368,21,278,90
+973,CA-1973,2025-10-09,2025-06-09,First Class,CUST-108,USA,New Danielburgh,Colorado,60749,Sugar,West,P-011,Everlasting Gobstopper,409,10,322,87
+974,CA-1974,2025-09-19,2025-12-29,Second Class,CUST-129,USA,New Matthew,Florida,08179,Chocolate,South,P-003,Wonka Bar - Scrumdiddlyumptious,410,13,79,331
+975,CA-1975,2025-08-07,2025-11-13,Second Class,CUST-299,USA,Nashport,New Mexico,79354,Other,East,P-010,Fizzy Lifting Drinks,379,18,54,325
+976,CA-1976,2026-02-24,2025-05-19,Second Class,CUST-215,USA,Jonesshire,Nevada,08948,Chocolate,South,P-004,Wonka Bar - Milk Chocolate,443,24,99,344
+977,CA-1977,2026-02-03,2025-10-10,Standard Class,CUST-022,USA,Robertborough,Maine,12577,Chocolate,Central,P-005,Wonka Bar - Triple Dazzle Caramel,500,13,163,337
+978,CA-1978,2025-04-25,2025-04-17,First Class,CUST-223,USA,East Nataliestad,Arkansas,88354,Sugar,East,P-006,Laffy Taffy,199,7,39,160
+979,CA-1979,2025-10-11,2025-09-22,Standard Class,CUST-155,USA,Lake Austin,Idaho,42716,Other,South,P-010,Fizzy Lifting Drinks,974,15,210,764
+980,CA-1980,2026-01-16,2026-03-14,Second Class,CUST-151,USA,Lake Danielport,North Dakota,29164,Other,South,P-010,Fizzy Lifting Drinks,110,19,20,90
+981,CA-1981,2026-04-01,2026-03-12,Second Class,CUST-252,USA,North Stevenstad,New Mexico,44681,Sugar,East,P-008,Nerds,205,19,42,163
+982,CA-1982,2025-08-28,2026-03-28,Standard Class,CUST-047,USA,North Kevinchester,Alaska,36864,Sugar,West,P-009,Fun Dip,567,12,426,141
+983,CA-1983,2025-09-23,2026-01-20,Second Class,CUST-248,USA,New Amber,Texas,66717,Other,South,P-010,Fizzy Lifting Drinks,601,11,462,139
+984,CA-1984,2025-07-26,2025-06-20,Second Class,CUST-016,USA,Websterton,Virginia,88755,Chocolate,East,P-002,Wonka Bar - Fudge Mallows,357,7,107,250
+985,CA-1985,2025-12-30,2025-09-24,First Class,CUST-080,USA,Adamstad,Tennessee,68154,Sugar,East,P-006,Laffy Taffy,687,21,363,324
+986,CA-1986,2025-10-25,2026-03-07,First Class,CUST-234,USA,Kentton,Indiana,75076,Sugar,Central,P-007,SweeTARTS,307,8,256,51
+987,CA-1987,2025-10-02,2025-05-11,Second Class,CUST-040,USA,Carlosberg,Oregon,17088,Chocolate,Central,P-001,Wonka Bar - Nutty Crunch Surprise,380,29,133,247
+988,CA-1988,2025-12-16,2026-03-10,Standard Class,CUST-217,USA,Wallburgh,Rhode Island,98431,Other,South,P-010,Fizzy Lifting Drinks,213,14,89,124
+989,CA-1989,2025-11-03,2025-12-29,First Class,CUST-249,USA,Lake Kimberly,Louisiana,69093,Sugar,West,P-009,Fun Dip,666,7,442,224
+990,CA-1990,2025-08-12,2025-10-27,Standard Class,CUST-041,USA,Cooperville,Utah,76802,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,264,29,210,54
+991,CA-1991,2026-03-19,2025-10-15,First Class,CUST-108,USA,Ashleyville,Florida,42089,Chocolate,West,P-002,Wonka Bar - Fudge Mallows,941,22,826,115
+992,CA-1992,2025-08-08,2025-12-12,First Class,CUST-185,USA,Walkerberg,Hawaii,02524,Other,West,P-015,Kazookles,860,5,801,59
+993,CA-1993,2025-04-26,2026-03-01,Second Class,CUST-186,USA,East Amber,West Virginia,55788,Sugar,East,P-011,Everlasting Gobstopper,245,24,135,110
+994,CA-1994,2026-02-04,2025-08-01,Standard Class,CUST-137,USA,North Davidland,Rhode Island,97086,Sugar,South,P-011,Everlasting Gobstopper,371,13,37,334
+995,CA-1995,2025-09-09,2025-11-18,Standard Class,CUST-260,USA,Robinsonhaven,Iowa,99486,Sugar,West,P-012,Hair Toffee,577,22,330,247
+996,CA-1996,2025-12-27,2025-10-13,Second Class,CUST-240,USA,North Matthewfurt,South Dakota,65768,Chocolate,East,P-005,Wonka Bar - Triple Dazzle Caramel,480,17,49,431
+997,CA-1997,2026-03-12,2026-01-26,Standard Class,CUST-053,USA,Abbottmouth,Delaware,11395,Sugar,South,P-009,Fun Dip,304,15,180,124
+998,CA-1998,2026-01-31,2025-07-09,Second Class,CUST-162,USA,North Roberttown,Missouri,71856,Sugar,Central,P-012,Hair Toffee,381,23,188,193
+999,CA-1999,2026-01-05,2025-05-13,Standard Class,CUST-300,USA,Campbellmouth,New Hampshire,67940,Chocolate,Central,P-002,Wonka Bar - Fudge Mallows,276,10,33,243
+1000,CA-2000,2026-01-01,2026-02-28,Second Class,CUST-094,USA,Timothyberg,New Jersey,27868,Other,East,P-014,Wonka Gum,673,14,225,448
